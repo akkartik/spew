@@ -1,8 +1,8 @@
 {
-  "name": "hello",
-  "fullName": "hello",
+  "name": "spew",
+  "fullName": "Spew: the minimalist feedreader",
   "id": "jid1-lEQflr7kJflWeg",
-  "description": "a basic add-on",
+  "description": "Just background crawling, and a shortcut to open a few random new stories in tabs",
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1"
