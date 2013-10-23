@@ -3,7 +3,22 @@
   "fullName": "Spew: the minimalist feedreader",
   "id": "jid1-lEQflr7kJflWeg",
   "description": "Just background crawling, and a shortcut to open a few random new stories in tabs",
-  "author": "",
+  "author": "Kartik Agaram",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "preferences": [
+  {
+    "name": "READ_HOTKEY",
+    "title": "Read hotkey",
+    "description": "Hotkey for opening some stories to read. ctrl is 'accel'. Restart your browser if you change this.",
+    "type": "string",
+    "value": "accel-shift-o"
+  },
+  {
+    "name": "TABS_AT_A_TIME",
+    "title": "Stories to read at a time",
+    "description": "Number of stories to open in tabs everytime you hit your hotkey.",
+    "type": "integer",
+    "value": 4
+  }
+  ]
 }
