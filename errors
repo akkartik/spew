@@ -1,0 +1,4 @@
+errors crawling:
+http://worrydream.com/feed.xml - items in chronological order; dup urls
+http://www.evanmiller.org/news.xml -- stupidly providing links in the content
+http://plasmasturm.org/feeds/plasmasturm/ -- relative urls
