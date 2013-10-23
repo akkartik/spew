@@ -1,4 +1,11 @@
 errors crawling:
-http://worrydream.com/feed.xml - items in chronological order; dup urls
+http://worrydream.com/feed.xml -- items in chronological order; dup urls
 http://www.evanmiller.org/news.xml -- stupidly providing links in the content
 http://plasmasturm.org/feeds/plasmasturm/ -- relative urls
+
+http://evanrmurphy.com/feed -- atom feed looks like rss, but should still work
+  http://blog.fogus.me/feed/
+  http://rethrick.com/views/rethrick.xml
+http://wingolog.org/feed/atom
+http://www.pavius.net/feed/
+http://john.freml.in/feed.atom
