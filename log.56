@@ -1,0 +1,1378 @@
+$ cfx run
+Using binary at '/usr/bin/firefox'.
+Using profile at '/tmp/tmp04sena.mozrunner'.
+info: spew: 1382487642576 0: no feeds to crawl
+info: spew: 1382487643023 interactive: import menu clicked
+info: spew: 1382487646034 interactive: user chose file /home/agaram/Desktop/feeds.xml
+info: spew: 1382487646040 interactive: about to add http://feeds.feedburner.com/43folders
+info: spew: 1382487646060 interactive: about to add http://www.aaronsw.com/weblog/index.xml
+info: spew: 1382487646076 interactive: about to add http://feeds.feedburner.com/AbtinForouzandeh
+info: spew: 1382487646095 interactive: about to add http://primevector.wordpress.com/feed/
+info: spew: 1382487646119 interactive: about to add http://alarmingdevelopment.org/?feed=rss2
+info: spew: 1382487646143 interactive: about to add http://feeds.feedburner.com/AmirKhella
+info: spew: 1382487646168 interactive: about to add http://www.science20.com/rogue_neuron/feed
+info: spew: 1382487646190 interactive: about to add http://pages.cs.wisc.edu/~psilord/blog/rssfeed.rss
+info: spew: 1382487646216 interactive: about to add http://vanemden.wordpress.com/feed/
+info: spew: 1382487646245 interactive: about to add http://arcueid-arc.org/feed/
+info: spew: 1382487646271 interactive: about to add http://plasmasturm.org/feeds/plasmasturm/
+info: spew: 1382487646291 interactive: about to add http://armstrongonsoftware.blogspot.com/feeds/posts/default
+info: spew: 1382487646316 interactive: about to add http://awelonblue.wordpress.com/feed/
+info: spew: 1382487646342 interactive: about to add http://benlynn.blogspot.com/feeds/posts/default
+info: spew: 1382487646345 interactive: about to add http://bc.tech.coop/blog/rss.xml
+info: spew: 1382487646362 interactive: about to add http://billwadge.wordpress.com/feed/
+info: spew: 1382487646384 interactive: about to add http://www.binfikr.com/author/sesh/feed/
+info: spew: 1382487646404 interactive: about to add http://bit-player.org/feed
+info: spew: 1382487646424 interactive: about to add http://bitworking.org/news/feed/
+info: spew: 1382487646448 interactive: about to add http://blakemasters.com/rss
+info: spew: 1382487646475 interactive: about to add http://deadmemes.net/feed/
+info: spew: 1382487646501 interactive: about to add http://feeds.feedburner.com/olabini
+info: spew: 1382487646525 interactive: about to add http://bosker.wordpress.com/feed/
+info: spew: 1382487646551 interactive: about to add http://worrydream.com/feed.xml
+info: spew: 1382487646576 interactive: about to add http://brianwill.net/blog/feed/
+info: spew: 1382487646603 interactive: about to add http://feeds.feedburner.com/calamitiesofnature
+info: spew: 1382487646628 interactive: about to add http://carlos.bueno.org/atom.xml
+info: spew: 1382487646654 interactive: about to add http://blog.davidtate.org/feed/
+info: spew: 1382487646681 interactive: about to add http://www.chrisstucchio.com/blog/atom.xml
+info: spew: 1382487646708 interactive: about to add http://churnlabs.wordpress.com/feed/
+info: spew: 1382487646735 interactive: about to add http://feeds2.feedburner.com/codahale
+info: spew: 1382487646759 interactive: about to add http://feeds.codecommit.com/codecommit
+info: spew: 1382487646782 interactive: about to add http://feeds.feedburner.com/codinghorror/
+info: spew: 1382487646799 interactive: about to add http://feeds.feedburner.com/CodusOperandi
+info: spew: 1382487646823 interactive: about to add http://blog.natekohl.net/feed/
+info: spew: 1382487646846 interactive: about to add http://found-an-url.blogspot.com/feeds/posts/default
+info: spew: 1382487646872 interactive: about to add http://consultingadultblog.blogspot.com/feeds/posts/default
+info: spew: 1382487646897 interactive: about to add http://cycle-gap.blogspot.com/feeds/posts/default
+info: spew: 1382487646920 interactive: about to add http://blog.davidchudzicki.com/feeds/posts/default
+info: spew: 1382487646946 interactive: about to add http://david.rothlis.net/articles.feed
+info: spew: 1382487646962 interactive: about to add http://davidtlang.com/rss
+info: spew: 1382487646982 interactive: about to add http://deathrayresearch.tumblr.com/rss
+info: spew: 1382487647006 interactive: about to add http://feeds.feedburner.com/glyph
+info: spew: 1382487647031 interactive: about to add http://decipher.org/rss.xml
+info: spew: 1382487647058 interactive: about to add http://denis.papathanasiou.org/?feed=rss2
+info: spew: 1382487647085 interactive: about to add http://feeds.feedburner.com/thurn
+info: spew: 1382487647107 interactive: about to add http://devaraj123.blogspot.com/feeds/posts/default
+info: spew: 1382487647131 interactive: about to add http://developersw.blogspot.com/feeds/posts/default
+info: spew: 1382487647159 interactive: about to add http://physics.ucsd.edu/do-the-math/feed/
+info: spew: 1382487647184 interactive: about to add http://blogs.swarthmore.edu/burke/feed/
+info: spew: 1382487647201 interactive: about to add http://feeds.feedburner.com/EggsOnBread
+info: spew: 1382487647218 interactive: about to add http://blogs.reuters.com/emanuelderman/feed/
+info: spew: 1382487647239 interactive: about to add http://feeds.feedburner.com/emilisgithubcom
+info: spew: 1382487647262 interactive: about to add http://enso-lang.org/blog/feed/
+info: spew: 1382487647288 interactive: about to add http://herdrick.tumblr.com/rss
+info: spew: 1382487647315 interactive: about to add http://www.evanmiller.org/news.xml
+info: spew: 1382487647341 interactive: about to add http://evanrmurphy.com/feed/
+info: spew: 1382487647365 interactive: about to add http://feeds.feedburner.com/extracheese
+info: spew: 1382487647386 interactive: about to add http://facingthesingularity.com/feed/
+info: spew: 1382487647410 interactive: about to add http://factor-language.blogspot.de/atom.xml
+info: spew: 1382487647435 interactive: about to add http://feeds.feedburner.com/z-bo
+info: spew: 1382487647469 interactive: about to add http://madhadron.com/feed/atom
+info: spew: 1382487647495 interactive: about to add http://www.ftrain.com/xml/feed/rss.xml
+info: spew: 1382487647520 interactive: about to add http://gpluschat.blogspot.com/feeds/posts/default
+info: spew: 1382487647542 interactive: about to add http://feeds.feedburner.com/Grrm_asoiaf_update
+info: spew: 1382487647556 interactive: about to add http://hopefullyintersting.blogspot.com/feeds/posts/default
+info: spew: 1382487647570 interactive: about to add http://hewhocutsdown.net/atom.xml
+info: spew: 1382487647595 interactive: about to add http://feeds.feedblitz.com/ICringely
+info: spew: 1382487647617 interactive: about to add http://urbanhonking.com/ideasfordozens/feed/
+info: spew: 1382487647634 interactive: about to add http://www.idlewords.com/index.xml
+info: spew: 1382487647657 interactive: about to add http://blog.imranghory.org/rss.xml
+info: spew: 1382487647684 interactive: about to add http://blog.incubaid.com/feed/
+info: spew: 1382487647711 interactive: about to add http://richardminerich.com/feed/
+info: spew: 1382487647732 interactive: about to add http://www.dalnefre.com/wp/feed/
+info: spew: 1382487647759 interactive: about to add http://prog21.dadgum.com/atom.xml
+info: spew: 1382487647781 interactive: about to add http://jeapostrophe.github.com/atom.xml
+info: spew: 1382487647802 interactive: about to add http://jlouisramblings.blogspot.com/feeds/posts/default
+info: spew: 1382487647819 interactive: about to add http://feeds.feedburner.com/jmillerinc
+info: spew: 1382487647838 interactive: about to add http://www.joelonsoftware.com/rss.xml
+info: spew: 1382487647854 interactive: about to add http://john.freml.in/feed.atom
+info: spew: 1382487647871 interactive: about to add http://feeds.feedburner.com/jonathanstray
+info: spew: 1382487647895 interactive: about to add http://blog.reverberate.org/feeds/posts/default
+info: spew: 1382487647923 interactive: about to add http://journal.stuffwithstuff.com/atom.xml
+info: spew: 1382487647952 interactive: about to add http://feeds.feedburner.com/majd-taby
+info: spew: 1382487647975 interactive: about to add http://jbgst.tumblr.com/rss
+info: spew: 1382487647999 interactive: about to add http://thedevilwentdowntopune.blogspot.com/feeds/posts/default
+info: spew: 1382487648023 interactive: about to add http://karublog.wordpress.com/feed/
+info: spew: 1382487648047 interactive: about to add http://bollywoodish.blogspot.com/feeds/posts/default
+info: spew: 1382487648064 interactive: about to add http://kazimirmajorinc.blogspot.com/feeds/posts/default
+info: spew: 1382487648081 interactive: about to add http://feeds.feedburner.com/thetechnium
+info: spew: 1382487648115 interactive: about to add http://kickingbear.com/blog/feed
+info: spew: 1382487648136 interactive: about to add http://feeds.feedburner.com/kishorelive
+info: spew: 1382487648154 interactive: about to add http://kssreeram.org/feeds/all.atom.xml
+info: spew: 1382487648179 interactive: about to add http://kyle.mathews2000.com/blog/feed/rss
+info: spew: 1382487648205 interactive: about to add http://lambda-the-ultimate.org/rss.xml
+info: spew: 1382487648234 interactive: about to add http://feeds.feedburner.com/LanguageAgnostic
+info: spew: 1382487648259 interactive: about to add http://tratt.net/laurie/tech_articles/articles.rss
+info: spew: 1382487648284 interactive: about to add http://leongersing.tumblr.com/rss
+info: spew: 1382487648312 interactive: about to add http://www.lispcast.com/feed
+info: spew: 1382487648340 interactive: about to add http://lisperator.net/atom
+info: spew: 1382487648366 interactive: about to add http://scottlocklin.wordpress.com/feed/
+info: spew: 1382487648391 interactive: about to add http://www.loper-os.org/?feed=rss2
+info: spew: 1382487648416 interactive: about to add http://feeds.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish
+info: spew: 1382487648419 interactive: about to add http://lambda-the-ultimate.org/taxonomy/term/1/0/feed
+info: spew: 1382487648452 interactive: about to add http://blog.nelhage.com/feed/
+info: spew: 1382487648478 interactive: about to add http://mainisusuallyafunction.blogspot.com/feeds/posts/default
+info: spew: 1382487648508 interactive: about to add http://feeds.feedburner.com/mattmaroon/AAcm
+info: spew: 1382487648532 interactive: about to add http://matt.might.net/articles/feed.rss
+info: spew: 1382487648563 interactive: about to add http://www.meltingasphalt.com/feed/
+info: spew: 1382487648586 interactive: about to add http://feeds.feedburner.com/michaelnielsen/wmna
+info: spew: 1382487648612 interactive: about to add http://minimsft.blogspot.com/feeds/posts/default
+info: spew: 1382487648637 interactive: about to add http://mnemnion.github.io/atom.xml
+info: spew: 1382487648660 interactive: about to add http://moonbase.rydia.net/index.atom
+info: spew: 1382487648686 interactive: about to add http://feeds.feedburner.com/mrteacup
+info: spew: 1382487648708 interactive: about to add http://codereview.stackexchange.com/feeds/tag?tagnames=lisp&sort=newest
+info: spew: 1382487648727 interactive: about to add http://feeds.feedburner.com/ModernPolymathism
+info: spew: 1382487648751 interactive: about to add http://feeds.feedburner.com/NickSivo
+info: spew: 1382487648776 interactive: about to add http://feeds.feedburner.com/nullisnull
+info: spew: 1382487648801 interactive: about to add http://omniorthogonal.blogspot.com/feeds/posts/default
+info: spew: 1382487648827 interactive: about to add http://james-iry.blogspot.com/feeds/posts/default
+info: spew: 1382487648858 interactive: about to add http://feeds.feedburner.com/TjsKaleidoscope
+info: spew: 1382487648901 interactive: about to add http://www.tbray.org/ongoing/ongoing.atom
+info: spew: 1382487648925 interactive: about to add http://oyster.diiq.org/rss
+info: spew: 1382487648942 interactive: about to add http://feeds.feedburner.com/spiralout
+info: spew: 1382487648957 interactive: about to add http://shebang.ws/feed.xml
+info: spew: 1382487648982 interactive: about to add http://vlaskovits.com/feed/
+info: spew: 1382487649003 interactive: about to add http://paulbuchheit.blogspot.com/feeds/posts/default
+info: spew: 1382487649029 interactive: about to add http://www.aaronsw.com/2002/feeds/pgessays.rss
+info: spew: 1382487649049 interactive: about to add http://paulhollingsworth.com/rss.xml
+info: spew: 1382487649069 interactive: about to add http://www.pavius.net/feed/
+info: spew: 1382487649093 interactive: about to add http://rocketnia.wordpress.com/feed/
+info: spew: 1382487649112 interactive: about to add http://www.vagueinnovation.com/pragmatic_gp/feed/
+info: spew: 1382487649139 interactive: about to add http://praveensnotes.tumblr.com/rss
+info: spew: 1382487649164 interactive: about to add http://punkstrategy.tumblr.com/rss
+info: spew: 1382487649183 interactive: about to add http://feeds.feedburner.com/QuietBabylon
+info: spew: 1382487649201 interactive: about to add http://www.solipsys.co.uk/rss.xml
+info: spew: 1382487649227 interactive: about to add http://no-url-left.blogspot.com/feeds/posts/default
+info: spew: 1382487649249 interactive: about to add http://www.randsinrepose.com/index.xml
+info: spew: 1382487649271 interactive: about to add http://pindancing.blogspot.com/feeds/posts/default
+info: spew: 1382487649296 interactive: about to add http://evanfarrer.blogspot.com/feeds/posts/default
+info: spew: 1382487649320 interactive: about to add http://feeds.feedburner.com/RecursivityBlog
+info: spew: 1382487649334 interactive: about to add http://www.reddit.com/search.rss?q=readwarp+OR+akkartik+OR+hackerstream+OR+hystry
+info: spew: 1382487649354 interactive: about to add http://rethrick.com/views/rethrick.xml
+info: spew: 1382487649374 interactive: about to add http://feeds.ribbonfarm.com/Ribbonfarm
+info: spew: 1382487649389 interactive: about to add http://www.richardrodger.com/feed/
+info: spew: 1382487649404 interactive: about to add http://ronburk.blogspot.com/feeds/posts/default
+info: spew: 1382487649430 interactive: about to add http://www.toao.com/rss.xml
+info: spew: 1382487649457 interactive: about to add http://blog.scottolsen.net/?feed=atom
+info: spew: 1382487649481 interactive: about to add http://sealedabstract.com/feed/
+info: spew: 1382487649499 interactive: about to add http://blog.fogus.me/feed/
+info: spew: 1382487649527 interactive: about to add http://zuttobenkyou.wordpress.com/feed/
+info: spew: 1382487649548 interactive: about to add http://feeds.feedburner.com/skilldrick
+info: spew: 1382487649567 interactive: about to add http://smuglispweeny.blogspot.com/feeds/posts/default
+info: spew: 1382487649593 interactive: about to add http://www.spencertipping.com/feed.atom
+info: spew: 1382487649614 interactive: about to add http://feeds.feedburner.com/startupboy
+info: spew: 1382487649629 interactive: about to add http://www.plover.net/~bonds/bonds.xml
+info: spew: 1382487649647 interactive: about to add http://stevemail.tumblr.com/rss
+info: spew: 1382487649665 interactive: about to add http://googler13.blogspot.com/feeds/posts/default
+info: spew: 1382487649683 interactive: about to add http://steve-yegge.blogspot.de/atom.xml
+info: spew: 1382487649703 interactive: about to add http://fexpr.blogspot.com/feeds/posts/default
+info: spew: 1382487649725 interactive: about to add http://sunruk.tumblr.com/rss
+info: spew: 1382487649752 interactive: about to add http://tagide.com/blog/feed/
+info: spew: 1382487649776 interactive: about to add http://tambrahmrage.tumblr.com/rss
+info: spew: 1382487649792 interactive: about to add http://www.techbookreport.com/rss/jbrss.xml
+info: spew: 1382487649818 interactive: about to add http://feeds.tempobook.com/tempobook
+info: spew: 1382487649844 interactive: about to add http://thearchdruidreport.blogspot.com/feeds/posts/default
+info: spew: 1382487649874 interactive: about to add http://axisofeval.blogspot.com/feeds/posts/default
+info: spew: 1382487649900 interactive: about to add http://www.thebaffler.com/blog/rss
+info: spew: 1382487649927 interactive: about to add http://evincarofautumn.blogspot.com/feeds/posts/default
+info: spew: 1382487649950 interactive: about to add http://blog.kurra.net/?feed=rss2
+info: spew: 1382487649971 interactive: about to add http://thecodelesscode.com/rss
+info: spew: 1382487649998 interactive: about to add http://feeds.feedburner.com/TheNuclearSquid
+info: spew: 1382487650023 interactive: about to add http://blog.racket-lang.org/feeds/posts/default
+info: spew: 1382487650049 interactive: about to add http://zackarymorris.tumblr.com/rss
+info: spew: 1382487650076 interactive: about to add http://feeds.feedburner.com/TheSecretDiaryOfSteveJobs
+info: spew: 1382487650097 interactive: about to add http://blog.thezerobit.com/rss.xml
+info: spew: 1382487650121 interactive: about to add http://tjake.github.com/atom.xml
+info: spew: 1382487650144 interactive: about to add http://feeds.feedburner.com/tomhowardco
+info: spew: 1382487650161 interactive: about to add http://blog.moertel.com/xml/atom/feed.xml
+info: spew: 1382487650179 interactive: about to add http://chneukirchen.org/trivium/index.atom
+info: spew: 1382487650204 interactive: about to add http://feeds.feedburner.com/TwoSixesBlog
+info: spew: 1382487650230 interactive: about to add http://undev.wordpress.com/feed/
+info: spew: 1382487650253 interactive: about to add http://unqualified-reservations.blogspot.com/feeds/posts/default
+info: spew: 1382487650280 interactive: about to add http://feeds.feedburner.com/urbanravine
+info: spew: 1382487650302 interactive: about to add http://blogs.valvesoftware.com/feed/?cat=6
+info: spew: 1382487650324 interactive: about to add http://feeds.venturehacks.com/venturehacks
+info: spew: 1382487650345 interactive: about to add http://www.vgcats.com/vgcats.rdf.xml
+info: spew: 1382487650362 interactive: about to add http://blog.vivekhaldar.com/rss
+info: spew: 1382487650390 interactive: about to add http://pipes.yahoo.com/pipes/pipe.run?_id=3d2497bccf253564c42ca0f7e21427b0&_render=rss
+info: spew: 1382487650411 interactive: about to add http://feeds.feedburner.com/warpspire
+info: spew: 1382487650436 interactive: about to add http://waynechang.com/feed/atom/
+info: spew: 1382487650460 interactive: about to add http://wildintent.com/feed/
+info: spew: 1382487650480 interactive: about to add http://wcook.blogspot.com/feeds/posts/default
+info: spew: 1382487650503 interactive: about to add http://pipes.yahoo.com/pipes/pipe.run?_id=0bb01ec2be221571e7b4f021ddaf8a44&_render=rss
+info: spew: 1382487650527 interactive: about to add http://willwhim.wpengine.com/feed/
+info: spew: 1382487650555 interactive: about to add http://wingolog.org/feed/atom
+info: spew: 1382487650577 interactive: about to add http://celandine13.livejournal.com/data/atom
+info: spew: 1382487650602 interactive: about to add http://wry.me/blog/index.rss
+info: spew: 1382487650622 interactive: about to add http://feeds2.feedburner.com/igstan
+info: spew: 1382487650643 interactive: about to add http://www.xkcd.com/rss.xml
+info: spew: 1382487650659 interactive: about to add http://xooglers.blogspot.com/feeds/posts/default
+info: spew: 1382487650679 interactive: about to add http://yelpingwithcormac.tumblr.com/rss
+info: spew: 1382487650700 interactive: about to add http://yieldthought.com/rss
+info: spew: 1382487650721 interactive: about to add http://www.yosefk.com/blog/feed
+info: spew: 1382487650744 interactive: about to add http://feeds.feedburner.com/holman
+info: spew: 1382487650769 interactive: about to add http://zetafleet.com/atom/1
+info: spew: 1382487650885 1: about to crawl 1/206
+info: spew: 1382487650886 1: crawling feed http://feeds.feedburner.com/43folders
+info: spew: 1382487652738 1: received feed for http://feeds.feedburner.com/43folders
+info: spew: 1382487652749 1: feedItems
+info: spew: 1382487652750 1: 15 items
+info: spew: 1382487652750 1: adding 15 urls
+info: spew: 1382487652750 1: adding http://feedproxy.google.com/~r/43Folders/~3/AiTbkipeciA/instapaper-4
+info: spew: 1382487652765 1: adding http://feedproxy.google.com/~r/43Folders/~3/sou5gu4qogA/cranking
+info: spew: 1382487652778 1: adding http://feedproxy.google.com/~r/43Folders/~3/AD4xPgjVefU/scared-shitless
+info: spew: 1382487652795 1: adding http://feedproxy.google.com/~r/43Folders/~3/Gdled2rySto/nerdiest-interview-ever
+info: spew: 1382487652818 1: adding http://feedproxy.google.com/~r/43Folders/~3/P_Dnxzw7JF0/fear
+info: spew: 1382487652845 1: adding http://feedproxy.google.com/~r/43Folders/~3/TACcjqI3jXI/meet-hotrod
+info: spew: 1382487652870 1: adding http://feedproxy.google.com/~r/43Folders/~3/x1JcHiJvdGs/new-cool-thing-dan-benjamin
+info: spew: 1382487652889 1: adding http://feedproxy.google.com/~r/43Folders/~3/l1WkXajwy-Q/permission-to-be-awesome
+info: spew: 1382487652912 1: adding http://feedproxy.google.com/~r/43Folders/~3/5fwogSrs8-0/first-pancake
+info: spew: 1382487652937 1: adding http://feedproxy.google.com/~r/43Folders/~3/jtmrw3FChQI/suddenly-last-sandwich
+info: spew: 1382487652963 1: adding http://feedproxy.google.com/~r/43Folders/~3/Ny1cGEUft3U/broken-meetings
+info: spew: 1382487652987 1: adding http://feedproxy.google.com/~r/43Folders/~3/uSIWegCaY44/distraction
+info: spew: 1382487653015 1: adding http://feedproxy.google.com/~r/43Folders/~3/tIacO-Ok5FI/my-paladin
+info: spew: 1382487653039 1: adding http://feedproxy.google.com/~r/43Folders/~3/SiUWWgrjack/future-proofing-your-passion
+info: spew: 1382487653062 1: adding http://feedproxy.google.com/~r/43Folders/~3/HeMOSHItDMw/impro-talk
+info: spew: 1382487653079 1: updating high-water mark for http://feeds.feedburner.com/43folders
+info: spew: 1382487655891 2: about to crawl 2/206
+info: spew: 1382487655892 2: crawling feed http://www.aaronsw.com/weblog/index.xml
+info: spew: 1382487660896 3: about to crawl 3/206
+info: spew: 1382487660896 3: crawling feed http://feeds.feedburner.com/AbtinForouzandeh
+info: spew: 1382487661191 3: received feed for http://feeds.feedburner.com/AbtinForouzandeh
+info: spew: 1382487661196 3: feedItems
+info: spew: 1382487661196 3: 17 items
+info: spew: 1382487661197 3: adding 17 urls
+info: spew: 1382487661197 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/Dw-5fNTzPbo/Six-Million-Lines-Of-Code.html
+info: spew: 1382487661211 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/Xs_RWAEoaVI/Dont-Gamify-Workify.html
+info: spew: 1382487661230 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/zM3U3ZxLw8s/A-Startup-is-like-Fishing-in-an-Empty-Pond.html
+info: spew: 1382487661256 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/QkK_yWsxAFg/The-Genius-of-the-Facebook-IPO.html
+info: spew: 1382487661281 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/XtwH_UTPenE/Capital-Gains-Tax-Rates-And-Antisemitism.html
+info: spew: 1382487661302 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/Bf1R2-81arA/Do-Not-Use-Go-For-32bit-Development.html
+info: spew: 1382487661315 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/II8j-TTlLVY/Economics-for-Programmers-Backward-Bending-Supply-Curve-of-Labor.html
+info: spew: 1382487661338 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/1Jl6nxre4NE/Pay-Your-Programmers-200-Per-Hour.html
+info: spew: 1382487661364 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/EHY5a_wAqFg/I-Just-Ordered-A-Ladle-From-Amazon.html
+info: spew: 1382487661390 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/iO4CKHhTmHc/Why-I-Will-Miss-Steve-Jobs.html
+info: spew: 1382487661411 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/wbFP3FV0Urs/Oil-Companies-and-LIFO.html
+info: spew: 1382487661436 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/4j3AIsGNn2U/How-iPad-can-Dominate-the-PC-Market.html
+info: spew: 1382487661464 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/pGlfFQTeqPY/Anarcho-Capitalist-Minarchist.html
+info: spew: 1382487661488 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/53ETNkeEQxY/Open-is-Overrated.html
+info: spew: 1382487661505 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/d6in8a31WSk/Amazon-is-More-Interesting-than-Google.html
+info: spew: 1382487661532 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/vcjeI3ECjg0/Determinism-and-Free-Will.html
+info: spew: 1382487661558 3: adding http://feedproxy.google.com/~r/AbtinForouzandeh/~3/c8o4L9LhQH8/Government-and-Natural-Disasters.html
+info: spew: 1382487661579 3: updating high-water mark for http://feeds.feedburner.com/AbtinForouzandeh
+info: spew: 1382487662022 2: received feed for http://www.aaronsw.com/weblog/index.xml
+info: spew: 1382487662030 2: feedItems
+info: spew: 1382487662030 2: 12 items
+info: spew: 1382487662031 2: adding 12 urls
+info: spew: 1382487662032 2: adding http://www.aaronsw.com/weblog/tdk
+info: spew: 1382487662047 2: adding http://www.aaronsw.com/weblog/looperexplained
+info: spew: 1382487662068 2: adding http://www.aaronsw.com/weblog/nummi
+info: spew: 1382487662093 2: adding http://www.aaronsw.com/weblog/geremiah
+info: spew: 1382487662114 2: adding http://www.aaronsw.com/weblog/anders
+info: spew: 1382487662138 2: adding http://www.aaronsw.com/weblog/dalio
+info: spew: 1382487662163 2: adding http://www.aaronsw.com/weblog/optimalbias
+info: spew: 1382487662180 2: adding http://www.aaronsw.com/weblog/semmelweis
+info: spew: 1382487662204 2: adding http://www.aaronsw.com/weblog/batmanbegins
+info: spew: 1382487662222 2: adding http://www.aaronsw.com/weblog/dweck
+info: spew: 1382487662246 2: adding http://www.aaronsw.com/weblog/burketdkr
+info: spew: 1382487662271 2: adding http://www.aaronsw.com/weblog/stepback
+info: spew: 1382487662286 2: updating high-water mark for http://www.aaronsw.com/weblog/index.xml
+info: spew: 1382487665901 4: about to crawl 4/206
+info: spew: 1382487665902 4: crawling feed http://primevector.wordpress.com/feed/
+info: spew: 1382487670907 5: about to crawl 5/206
+info: spew: 1382487670907 5: crawling feed http://alarmingdevelopment.org/?feed=rss2
+info: spew: 1382487672488 4: received feed for http://primevector.wordpress.com/feed/
+info: spew: 1382487672495 4: feedItems
+info: spew: 1382487672495 4: 10 items
+info: spew: 1382487672496 4: adding 10 urls
+info: spew: 1382487672496 4: adding http://primevector.wordpress.com/2012/07/23/3d-printing-with-printrbot/
+info: spew: 1382487672512 4: adding http://primevector.wordpress.com/2012/07/13/statistical-companion-a-science-fiction-story/
+info: spew: 1382487672533 4: adding http://primevector.wordpress.com/2011/09/18/story-meditation-good-posture/
+info: spew: 1382487672559 4: adding http://primevector.wordpress.com/2011/09/10/resilient-community-inception-choices/
+info: spew: 1382487672584 4: adding http://primevector.wordpress.com/2011/08/11/how-i-learned-aerodynamics-with-ease-by-doing-story-meditation/
+info: spew: 1382487672610 4: adding http://primevector.wordpress.com/2011/06/29/little-tricks-to-make-my-company-a-social-and-financial-success/
+info: spew: 1382487672634 4: adding http://primevector.wordpress.com/2011/05/18/you-in-your-maximum-capacity/
+info: spew: 1382487672657 4: adding http://primevector.wordpress.com/2011/04/09/story-meditation-and-personal-neo-mythology/
+info: spew: 1382487672687 4: adding http://primevector.wordpress.com/2011/01/29/upheaval-in-egypt-and-the-lighter-side/
+info: spew: 1382487672711 4: adding http://primevector.wordpress.com/2011/01/01/hug-society-a-science-fiction-story/
+info: spew: 1382487672728 4: updating high-water mark for http://primevector.wordpress.com/feed/
+info: spew: 1382487674643 5: received feed for http://alarmingdevelopment.org/?feed=rss2
+info: spew: 1382487674647 5: feedItems
+info: spew: 1382487674648 5: 10 items
+info: spew: 1382487674648 5: adding 10 urls
+info: spew: 1382487674649 5: adding http://alarmingdevelopment.org/?p=826
+info: spew: 1382487674673 5: adding http://alarmingdevelopment.org/?p=820
+info: spew: 1382487674695 5: adding http://alarmingdevelopment.org/?p=805
+info: spew: 1382487674724 5: adding http://alarmingdevelopment.org/?p=797
+info: spew: 1382487674729 5: adding http://alarmingdevelopment.org/?p=766
+info: spew: 1382487674763 5: adding http://alarmingdevelopment.org/?p=748
+info: spew: 1382487674770 5: adding http://alarmingdevelopment.org/?p=739
+info: spew: 1382487674808 5: adding http://alarmingdevelopment.org/?p=724
+info: spew: 1382487674821 5: adding http://alarmingdevelopment.org/?p=711
+info: spew: 1382487674844 5: adding http://alarmingdevelopment.org/?p=702
+info: spew: 1382487674867 5: updating high-water mark for http://alarmingdevelopment.org/?feed=rss2
+info: spew: 1382487675912 6: about to crawl 6/206
+info: spew: 1382487675912 6: crawling feed http://feeds.feedburner.com/AmirKhella
+info: spew: 1382487676070 6: received feed for http://feeds.feedburner.com/AmirKhella
+info: spew: 1382487676077 6: feedItems
+info: spew: 1382487676077 6: 10 items
+info: spew: 1382487676078 6: adding 10 urls
+info: spew: 1382487676078 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/NropM6Uohxo/
+info: spew: 1382487676085 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/F8Ll8X0KfL0/
+info: spew: 1382487676109 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/a56nNHWLATc/
+info: spew: 1382487676135 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/aIWyMDGSy8g/
+info: spew: 1382487676156 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/9GAcvHaUDmc/
+info: spew: 1382487676181 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/wWbYeXxM1sM/
+info: spew: 1382487676205 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/X1BGAGRRMAk/
+info: spew: 1382487676234 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/-EEs-b1-iD4/
+info: spew: 1382487676256 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/gMrcRAlrbJI/
+info: spew: 1382487676280 6: adding http://feedproxy.google.com/~r/AmirKhella/~3/Oz2ogWjcsH8/
+info: spew: 1382487676302 6: updating high-water mark for http://feeds.feedburner.com/AmirKhella
+info: spew: 1382487680918 7: about to crawl 7/206
+info: spew: 1382487680918 7: crawling feed http://www.science20.com/rogue_neuron/feed
+info: spew: 1382487685923 8: about to crawl 8/206
+info: spew: 1382487685923 8: crawling feed http://pages.cs.wisc.edu/~psilord/blog/rssfeed.rss
+info: spew: 1382487690927 9: about to crawl 9/206
+info: spew: 1382487690928 9: crawling feed http://vanemden.wordpress.com/feed/
+info: spew: 1382487691313 7: received feed for http://www.science20.com/rogue_neuron/feed
+info: spew: 1382487691320 7: feedItems
+info: spew: 1382487691320 7: 30 items
+info: spew: 1382487691322 7: adding 30 urls
+info: spew: 1382487691322 7: adding http://www.science20.com/rogue_neuron/chessboxing_science-85319
+info: spew: 1382487691342 7: adding http://www.science20.com/rogue_neuron/new_school_thought-83943
+info: spew: 1382487691355 7: adding http://www.science20.com/rogue_neuron/citizen_scientist_20-83660
+info: spew: 1382487691371 7: adding http://www.science20.com/rogue_neuron/open_science_summit_almost_here_and_i_need_your_help-83303
+info: spew: 1382487691385 7: adding http://www.science20.com/rogue_neuron/blog/your_brain_politics_cognitive_neuroscience_liberals_and_conservatives-82378
+info: spew: 1382487691411 7: adding http://www.science20.com/rogue_neuron/merging_art_and_science_communication_tool-76674
+info: spew: 1382487691432 7: adding http://www.science20.com/rogue_neuron/neuroscience_creativity_and_insight%E2%80%94_good_bad_absolutely_ridiculous-76404
+info: spew: 1382487691442 7: adding http://www.science20.com/rogue_neuron/science_through_stories_allowing_rediscovery_wonder-75792
+info: spew: 1382487691453 7: adding http://www.science20.com/rogue_neuron/blog/lady_gaga_feels_your_pain-75563
+info: spew: 1382487691465 7: adding http://www.science20.com/rogue_neuron/blog/family_peers%E2%80%94my_personal_story_science_online_2011-75492
+info: spew: 1382487691475 7: adding http://www.science20.com/rogue_neuron/hey_barbie%E2%80%94show_me_science-74741
+info: spew: 1382487691487 7: adding http://www.science20.com/rogue_neuron/blog/humanity_caltech_speakerorganizer_contact_info
+info: spew: 1382487691489 7: adding http://www.science20.com/rogue_neuron/blog/musical_tribute_media
+info: spew: 1382487691503 7: adding http://www.science20.com/rogue_neuron/sexing_science_im_coming_out_and_so_can_you
+info: spew: 1382487691514 7: adding http://www.science20.com/rogue_neuron/what_happened_creativity_science
+info: spew: 1382487691525 7: adding http://www.science20.com/rogue_neuron/blog/annual_donors_choose_fundraiser_help_support_science_education_kids
+info: spew: 1382487691538 7: adding http://www.science20.com/rogue_neuron/essential_psychopathology_creativity-71831
+info: spew: 1382487691550 7: adding http://www.science20.com/rogue_neuron/solutions_creativity_crisis_look_cubas_technological_disobedience
+info: spew: 1382487691565 7: adding http://www.science20.com/rogue_neuron/blog/different_meaning_september_11th
+info: spew: 1382487691579 7: adding http://www.science20.com/rogue_neuron/message_sciency_elite_step_out_lab_and_real_world
+info: spew: 1382487691596 7: adding http://www.science20.com/rogue_neuron/science_pleasure_part_iii_neurological_orgasm
+info: spew: 1382487691618 7: adding http://www.science20.com/rogue_neuron/blog/ultimate_science_nerd_love_song
+info: spew: 1382487691640 7: adding http://www.science20.com/rogue_neuron/ray_kurzweil_video_presentation_brain_and_power_hierarchical_thinking_full_video
+info: spew: 1382487691658 7: adding http://www.science20.com/rogue_neuron/ray_kurzweil_responds_pz_myers_regarding_ray_does_not_understand_brain
+info: spew: 1382487691674 7: adding http://www.science20.com/rogue_neuron/science_pleasure_part_ii_your_brain_sexual_imagery
+info: spew: 1382487691697 7: adding http://www.science20.com/rogue_neuron/science_pleasure_part_one_allure_asymmetry
+info: spew: 1382487691718 7: adding http://www.science20.com/rogue_neuron/sex_makes_you_smarter_can_virtual_sex_do_same
+info: spew: 1382487691740 7: adding http://www.science20.com/rogue_neuron/blog/another_change_can_you_keep
+info: spew: 1382487691753 7: adding http://www.science20.com/rogue_neuron/blog/majestic_view_cotopaxi_volcano_ecuador
+info: spew: 1382487691770 7: adding http://www.science20.com/rogue_neuron/2010_h_summit_conference_20
+info: spew: 1382487691788 7: updating high-water mark for http://www.science20.com/rogue_neuron/feed
+info: spew: 1382487695933 10: about to crawl 10/206
+info: spew: 1382487695933 10: crawling feed http://arcueid-arc.org/feed/
+info: spew: 1382487697938 10: received feed for http://arcueid-arc.org/feed/
+info: spew: 1382487697941 10: feedItems
+info: spew: 1382487697941 10: 10 items
+info: spew: 1382487697941 10: adding 10 urls
+info: spew: 1382487697941 10: adding http://arcueid-arc.org/2013/05/22/three-implementation-models-for-scheme/
+info: spew: 1382487697956 10: adding http://arcueid-arc.org/2013/05/15/more-performance-tuning/
+info: spew: 1382487697967 10: adding http://arcueid-arc.org/2013/05/14/arcueid-0-1-2-released/
+info: spew: 1382487697986 10: adding http://arcueid-arc.org/2013/05/09/regular-expressions-progress/
+info: spew: 1382487698012 10: adding http://arcueid-arc.org/2013/05/06/regular-expressions-in-arc/
+info: spew: 1382487698023 10: adding http://arcueid-arc.org/2013/05/02/changing-garbage-collectors/
+info: spew: 1382487698034 10: adding http://arcueid-arc.org/2013/04/30/profiling-arcueid/
+info: spew: 1382487698046 10: adding http://arcueid-arc.org/2013/04/26/nested-quasiquotes/
+info: spew: 1382487698058 10: adding http://arcueid-arc.org/2013/04/25/arcueid-0-1-1-released/
+info: spew: 1382487698070 10: adding http://arcueid-arc.org/2013/04/23/arcueid-0-1-0-released/
+info: spew: 1382487698087 10: updating high-water mark for http://arcueid-arc.org/feed/
+info: spew: 1382487699405 9: received feed for http://vanemden.wordpress.com/feed/
+info: spew: 1382487699409 9: feedItems
+info: spew: 1382487699409 9: 10 items
+info: spew: 1382487699409 9: adding 10 urls
+info: spew: 1382487699409 9: adding http://vanemden.wordpress.com/2013/04/02/the-h-bomb-and-birth-of-the-computer-part-iii-triumph-of-brains-and-slide-rules/
+info: spew: 1382487699421 9: adding http://vanemden.wordpress.com/2013/04/02/the-h-bomb-and-the-computer-part-ii-the-revolution-that-almost-didnt-happen/
+info: spew: 1382487699433 9: adding http://vanemden.wordpress.com/2013/04/02/the-h-bomb-and-the-birth-of-the-computer-part-i-edward-tellers-obsession-2/
+info: spew: 1382487699445 9: adding http://vanemden.wordpress.com/2012/04/08/flowcharts-the-once-and-future-programming-language/
+info: spew: 1382487699459 9: adding http://vanemden.wordpress.com/2011/10/31/mccarthys-recipe-for-a-programming-language/
+info: spew: 1382487699481 9: adding http://vanemden.wordpress.com/2011/09/11/scruffies-and-neats-in-artificial-intelligence/
+info: spew: 1382487699503 9: adding http://vanemden.wordpress.com/2011/06/07/the-mit-style-in-artificial-intelligence-1958-%e2%80%93-1985/
+info: spew: 1382487699528 9: adding http://vanemden.wordpress.com/2011/02/18/from-the-chronicles-of-scruffy-versus-neat-the-lighthill-affair/
+info: spew: 1382487699543 9: adding http://vanemden.wordpress.com/2011/01/15/another-scoop-by-dijkstra/
+info: spew: 1382487699558 9: adding http://vanemden.wordpress.com/2010/12/11/unprotected-numerical-computation-and-its-safe-alternatives/
+info: spew: 1382487699569 9: updating high-water mark for http://vanemden.wordpress.com/feed/
+info: spew: 1382487700936 11: about to crawl 11/206
+info: spew: 1382487700936 11: crawling feed http://plasmasturm.org/feeds/plasmasturm/
+info: spew: 1382487701066 8: received feed for http://pages.cs.wisc.edu/~psilord/blog/rssfeed.rss
+info: spew: 1382487701070 8: feedItems
+info: spew: 1382487701071 8: 11 items
+info: spew: 1382487701071 8: adding 11 urls
+info: spew: 1382487701072 8: adding http://www.cs.wisc.edu/~psilord/blog/43.html
+info: spew: 1382487701099 8: adding http://www.cs.wisc.edu/~psilord/blog/42.html
+info: spew: 1382487701121 8: adding http://www.cs.wisc.edu/~psilord/blog/41.html
+info: spew: 1382487701139 8: adding http://www.cs.wisc.edu/~psilord/blog/40.html
+info: spew: 1382487701155 8: adding http://www.cs.wisc.edu/~psilord/blog/39.html
+info: spew: 1382487701175 8: adding http://www.cs.wisc.edu/~psilord/blog/38.html
+info: spew: 1382487701192 8: adding http://www.cs.wisc.edu/~psilord/blog/37.html
+info: spew: 1382487701214 8: adding http://www.cs.wisc.edu/~psilord/blog/36.html
+info: spew: 1382487701227 8: adding http://www.cs.wisc.edu/~psilord/blog/35.html
+info: spew: 1382487701250 8: adding http://www.cs.wisc.edu/~psilord/blog/34.html
+info: spew: 1382487701274 8: adding http://www.cs.wisc.edu/~psilord/blog/33.html
+info: spew: 1382487701290 8: updating high-water mark for http://pages.cs.wisc.edu/~psilord/blog/rssfeed.rss
+info: spew: 1382487703694 11: received feed for http://plasmasturm.org/feeds/plasmasturm/
+info: spew: 1382487703702 11: feedItems
+info: spew: 1382487703702 11: 0 items
+info: spew: 1382487703702 11: Trying to parse as an atom feed
+info: spew: 1382487703702 11: 25 entries
+info: spew: 1382487703702 11: 25 urls
+info: spew: 1382487703702 11: adding 25 urls
+info: spew: 1382487705941 12: about to crawl 12/206
+info: spew: 1382487705942 12: crawling feed http://armstrongonsoftware.blogspot.com/feeds/posts/default
+info: spew: 1382487706778 12: received feed for http://armstrongonsoftware.blogspot.com/feeds/posts/default
+info: spew: 1382487706784 12: feedItems
+info: spew: 1382487706784 12: 0 items
+info: spew: 1382487706784 12: Trying to parse as an atom feed
+info: spew: 1382487706785 12: 20 entries
+info: spew: 1382487706785 12: 20 urls
+info: spew: 1382487706785 12: adding 20 urls
+info: spew: 1382487706785 12: adding http://armstrongonsoftware.blogspot.com/feeds/3051706052907971885/comments/default
+info: spew: 1382487706799 12: adding http://armstrongonsoftware.blogspot.com/feeds/918495463446617172/comments/default
+info: spew: 1382487706819 12: adding http://armstrongonsoftware.blogspot.com/feeds/8405750228489487288/comments/default
+info: spew: 1382487706832 12: adding http://armstrongonsoftware.blogspot.com/feeds/4966503458596292462/comments/default
+info: spew: 1382487706845 12: adding http://armstrongonsoftware.blogspot.com/feeds/3196525077345707737/comments/default
+info: spew: 1382487706855 12: adding http://armstrongonsoftware.blogspot.com/feeds/3196478642852125831/comments/default
+info: spew: 1382487706866 12: adding http://armstrongonsoftware.blogspot.com/feeds/1165264298212740849/comments/default
+info: spew: 1382487706877 12: adding http://armstrongonsoftware.blogspot.com/feeds/3507765455089605433/comments/default
+info: spew: 1382487706888 12: adding http://armstrongonsoftware.blogspot.com/feeds/8318692186429607666/comments/default
+info: spew: 1382487706898 12: adding http://armstrongonsoftware.blogspot.com/feeds/4724295521704285571/comments/default
+info: spew: 1382487706911 12: adding http://armstrongonsoftware.blogspot.com/feeds/7309515441611634378/comments/default
+info: spew: 1382487706923 12: adding http://armstrongonsoftware.blogspot.com/feeds/2767538981043038705/comments/default
+info: spew: 1382487706936 12: adding http://armstrongonsoftware.blogspot.com/feeds/3760743554935855110/comments/default
+info: spew: 1382487706947 12: adding http://armstrongonsoftware.blogspot.com/feeds/6255649099984262630/comments/default
+info: spew: 1382487706958 12: adding http://armstrongonsoftware.blogspot.com/feeds/2371791066875103701/comments/default
+info: spew: 1382487706971 12: adding http://armstrongonsoftware.blogspot.com/feeds/5749540209297010238/comments/default
+info: spew: 1382487706983 12: adding http://armstrongonsoftware.blogspot.com/feeds/998581103285318358/comments/default
+info: spew: 1382487706996 12: adding http://armstrongonsoftware.blogspot.com/feeds/5913465963863651059/comments/default
+info: spew: 1382487707008 12: adding http://armstrongonsoftware.blogspot.com/feeds/5100849798692368178/comments/default
+info: spew: 1382487707026 12: adding http://armstrongonsoftware.blogspot.com/feeds/4925315351154112265/comments/default
+info: spew: 1382487707029 12: updating high-water mark for http://armstrongonsoftware.blogspot.com/feeds/posts/default
+info: spew: 1382487710947 13: about to crawl 13/206
+info: spew: 1382487710948 13: crawling feed http://awelonblue.wordpress.com/feed/
+info: spew: 1382487715949 14: about to crawl 14/206
+info: spew: 1382487715949 14: crawling feed http://benlynn.blogspot.com/feeds/posts/default
+info: spew: 1382487720954 15: about to crawl 15/206
+info: spew: 1382487720954 15: crawling feed http://bc.tech.coop/blog/rss.xml
+info: spew: 1382487725581 13: received feed for http://awelonblue.wordpress.com/feed/
+info: spew: 1382487725583 13: feedItems
+info: spew: 1382487725583 13: 10 items
+info: spew: 1382487725584 13: adding 10 urls
+info: spew: 1382487725584 13: adding http://awelonblue.wordpress.com/2013/09/11/ui-as-an-act-of-programming/
+info: spew: 1382487725598 13: adding http://awelonblue.wordpress.com/2013/09/04/staging-is-simpler-than-type-checking/
+info: spew: 1382487725613 13: adding http://awelonblue.wordpress.com/2013/08/26/source-stable-uniqueness/
+info: spew: 1382487725634 13: adding http://awelonblue.wordpress.com/2013/08/26/multi-stack-environment-part-2/
+info: spew: 1382487725655 13: adding http://awelonblue.wordpress.com/2013/08/24/pipes-that-flow-in-both-directions/
+info: spew: 1382487725670 13: adding http://awelonblue.wordpress.com/2013/08/19/multi-stack-bootstrap/
+info: spew: 1382487725686 13: adding http://awelonblue.wordpress.com/2013/08/16/imperative-metaprogramming-of-a-declarative-program/
+info: spew: 1382487725703 13: adding http://awelonblue.wordpress.com/2013/08/14/awelon-virtual-machine/
+info: spew: 1382487725719 13: adding http://awelonblue.wordpress.com/2013/08/14/multi-stack-environment-in-awelon/
+info: spew: 1382487725744 13: adding http://awelonblue.wordpress.com/2013/08/12/tacit-programming-with-arrows-hands-and-zippers/
+info: spew: 1382487725767 13: updating high-water mark for http://awelonblue.wordpress.com/feed/
+info: spew: 1382487725959 16: about to crawl 16/206
+info: spew: 1382487725959 16: crawling feed http://billwadge.wordpress.com/feed/
+info: spew: 1382487729560 14: received feed for http://benlynn.blogspot.com/feeds/posts/default
+info: spew: 1382487729565 14: feedItems
+info: spew: 1382487729565 14: 0 items
+info: spew: 1382487729565 14: Trying to parse as an atom feed
+info: spew: 1382487729565 14: 25 entries
+info: spew: 1382487729566 14: 25 urls
+info: spew: 1382487729566 14: adding 25 urls
+info: spew: 1382487729566 14: adding http://benlynn.blogspot.com/feeds/814555049292878040/comments/default
+info: spew: 1382487729578 14: adding http://benlynn.blogspot.com/feeds/4308963831181170169/comments/default
+info: spew: 1382487729602 14: adding http://benlynn.blogspot.com/feeds/8051852169942568385/comments/default
+info: spew: 1382487729621 14: adding http://benlynn.blogspot.com/feeds/8893134664957159063/comments/default
+info: spew: 1382487729638 14: adding http://benlynn.blogspot.com/feeds/5828565403340175713/comments/default
+info: spew: 1382487729657 14: adding http://benlynn.blogspot.com/feeds/5348188788693194861/comments/default
+info: spew: 1382487729676 14: adding http://benlynn.blogspot.com/feeds/1784313200264926349/comments/default
+info: spew: 1382487729698 14: adding http://benlynn.blogspot.com/feeds/4212792165909083449/comments/default
+info: spew: 1382487729721 14: adding http://benlynn.blogspot.com/feeds/2408493186979807662/comments/default
+info: spew: 1382487729743 14: adding http://benlynn.blogspot.com/feeds/7442732949739965367/comments/default
+info: spew: 1382487729766 14: adding http://benlynn.blogspot.com/feeds/1586267961046193575/comments/default
+info: spew: 1382487729787 14: adding http://benlynn.blogspot.com/feeds/1031880622436707976/comments/default
+info: spew: 1382487729811 14: adding http://benlynn.blogspot.com/feeds/6995552818708103858/comments/default
+info: spew: 1382487729836 14: adding http://benlynn.blogspot.com/feeds/5278202426317204620/comments/default
+info: spew: 1382487729869 14: adding http://benlynn.blogspot.com/feeds/3298006860052526977/comments/default
+info: spew: 1382487729886 14: adding http://benlynn.blogspot.com/feeds/4226227260728159733/comments/default
+info: spew: 1382487729911 14: adding http://benlynn.blogspot.com/feeds/635135255105363499/comments/default
+info: spew: 1382487729933 14: adding http://benlynn.blogspot.com/feeds/1882499272456715868/comments/default
+info: spew: 1382487729951 14: adding http://benlynn.blogspot.com/feeds/3854809823641383577/comments/default
+info: spew: 1382487729972 14: adding http://benlynn.blogspot.com/feeds/354283338571307879/comments/default
+info: spew: 1382487729987 14: adding http://benlynn.blogspot.com/feeds/6668152220866916925/comments/default
+info: spew: 1382487730005 14: adding http://benlynn.blogspot.com/feeds/5262289402278814027/comments/default
+info: spew: 1382487730028 14: adding http://benlynn.blogspot.com/feeds/2122668272600516145/comments/default
+info: spew: 1382487730052 14: adding http://benlynn.blogspot.com/feeds/1607862638358330258/comments/default
+info: spew: 1382487730076 14: adding http://benlynn.blogspot.com/feeds/2800922474995624864/comments/default
+info: spew: 1382487730098 14: updating high-water mark for http://benlynn.blogspot.com/feeds/posts/default
+info: spew: 1382487730102 16: received feed for http://billwadge.wordpress.com/feed/
+info: spew: 1382487730109 16: feedItems
+info: spew: 1382487730110 16: 10 items
+info: spew: 1382487730110 16: adding 10 urls
+info: spew: 1382487730111 16: adding http://billwadge.wordpress.com/2012/07/02/intensional-versioned-web-sites/
+info: spew: 1382487730127 16: adding http://billwadge.wordpress.com/2012/04/15/lucid-retirement-plan/
+info: spew: 1382487730144 16: adding http://billwadge.wordpress.com/2012/03/31/lucid-eduction/
+info: spew: 1382487730160 16: adding http://billwadge.wordpress.com/2011/12/06/lucid-into-the-abyss/
+info: spew: 1382487730183 16: adding http://billwadge.wordpress.com/2011/05/28/quiz-script/
+info: spew: 1382487730208 16: adding http://billwadge.wordpress.com/2011/04/27/lucid-the-dataflow-language/
+info: spew: 1382487730228 16: adding http://billwadge.wordpress.com/2011/04/09/lucid-the-temporal-language/
+info: spew: 1382487730243 16: adding http://billwadge.wordpress.com/2011/03/23/lucid-the-origins/
+info: spew: 1382487730263 16: adding http://billwadge.wordpress.com/2011/02/22/propositional-logic-makeover/
+info: spew: 1382487730288 16: adding http://billwadge.wordpress.com/2011/02/03/infinitesimal-logic/
+info: spew: 1382487730310 16: updating high-water mark for http://billwadge.wordpress.com/feed/
+info: spew: 1382487730964 17: about to crawl 17/206
+info: spew: 1382487730964 17: crawling feed http://www.binfikr.com/author/sesh/feed/
+info: spew: 1382487732743 15: received feed for http://bc.tech.coop/blog/rss.xml
+info: spew: 1382487732745 15: feedItems
+info: spew: 1382487732745 15: 0 items
+info: spew: 1382487732745 15: Trying to parse as an atom feed
+info: spew: 1382487732745 15: 0 entries
+info: spew: 1382487732745 15: 0 urls
+info: spew: 1382487732745 15: adding 0 urls
+info: spew: 1382487732746 15: updating high-water mark for http://bc.tech.coop/blog/rss.xml
+info: spew: 1382487735969 18: about to crawl 18/206
+info: spew: 1382487735969 18: crawling feed http://bit-player.org/feed
+info: spew: 1382487736877 17: received feed for http://www.binfikr.com/author/sesh/feed/
+info: spew: 1382487736884 17: feedItems
+info: spew: 1382487736884 17: 10 items
+info: spew: 1382487736885 17: adding 10 urls
+info: spew: 1382487736885 17: adding http://www.binfikr.com/uncategorized/flipkart-forbes-story/
+info: spew: 1382487736907 17: adding http://www.binfikr.com/general/culture-boltell/
+info: spew: 1382487736930 17: adding http://www.binfikr.com/sports/t-20-innings-chris-gayle-delhi-daredevils/
+info: spew: 1382487736955 17: adding http://www.binfikr.com/sports/points-games-life-lessons/
+info: spew: 1382487736977 17: adding http://www.binfikr.com/uncategorized/delhi-metro/
+info: spew: 1382487737000 17: adding http://www.binfikr.com/general/interview-accept-disappear/
+info: spew: 1382487737026 17: adding http://www.binfikr.com/uncategorized/india-needs-a-few-more-inspirational-leaders-like-this/
+info: spew: 1382487737051 17: adding http://www.binfikr.com/uncategorized/mind-conditioning/
+info: spew: 1382487737074 17: adding http://www.binfikr.com/technology/nosql-databases-2/
+info: spew: 1382487737099 17: adding http://www.binfikr.com/sports/cricket/run-ashwin-run/
+info: spew: 1382487737121 17: updating high-water mark for http://www.binfikr.com/author/sesh/feed/
+info: spew: 1382487737388 18: received feed for http://bit-player.org/feed
+info: spew: 1382487737397 18: feedItems
+info: spew: 1382487737397 18: 15 items
+info: spew: 1382487737397 18: adding 15 urls
+info: spew: 1382487737397 18: adding http://bit-player.org/2013/tetrahedra-with-a-twist
+info: spew: 1382487737412 18: adding http://bit-player.org/2013/advances-in-obfuscation
+info: spew: 1382487737435 18: adding http://bit-player.org/2013/who-was-aleph-null
+info: spew: 1382487737459 18: adding http://bit-player.org/2013/black-and-white-in-one-dimension
+info: spew: 1382487737484 18: adding http://bit-player.org/2013/the-mother-ditch
+info: spew: 1382487737505 18: adding http://bit-player.org/2013/the-wisterium-of-memory
+info: spew: 1382487737530 18: adding http://bit-player.org/2013/a-little-theorem
+info: spew: 1382487737552 18: adding http://bit-player.org/2013/mapping-the-hilbert-curve
+info: spew: 1382487737569 18: adding http://bit-player.org/2013/flying-nonmetric-airways
+info: spew: 1382487737584 18: adding http://bit-player.org/2013/sphere-packings-and-hamiltonian-paths
+info: spew: 1382487737609 18: adding http://bit-player.org/2013/recursive-driveling
+info: spew: 1382487737634 18: adding http://bit-player.org/2013/driveling
+info: spew: 1382487737659 18: adding http://bit-player.org/2013/joshua-trees-and-toothpicks
+info: spew: 1382487737685 18: adding http://bit-player.org/2013/100-years-of-markov-chains
+info: spew: 1382487737709 18: adding http://bit-player.org/2013/the-flyover-states
+info: spew: 1382487737731 18: updating high-water mark for http://bit-player.org/feed
+info: spew: 1382487740974 19: about to crawl 19/206
+info: spew: 1382487740975 19: crawling feed http://bitworking.org/news/feed/
+info: spew: 1382487743928 19: received feed for http://bitworking.org/news/feed/
+info: spew: 1382487743931 19: feedItems
+info: spew: 1382487743931 19: 0 items
+info: spew: 1382487743932 19: Trying to parse as an atom feed
+info: spew: 1382487743932 19: 10 entries
+info: spew: 1382487743932 19: 10 urls
+info: spew: 1382487743932 19: adding 10 urls
+info: spew: 1382487743933 19: adding http://bitworking.org/news/2013/09/internet_of_things
+info: spew: 1382487743947 19: adding http://bitworking.org/news/2013/07/platonic_programs
+info: spew: 1382487743969 19: adding http://bitworking.org/news/2013/07/driving
+info: spew: 1382487743993 19: adding http://bitworking.org/news/2013/07/screencast
+info: spew: 1382487744017 19: adding http://bitworking.org/news/2013/05/piccolo_go
+info: spew: 1382487744043 19: adding http://bitworking.org/news/2011/05/back-on-twitter
+info: spew: 1382487744066 19: adding http://bitworking.org/news/2011/05/apis-discovery
+info: spew: 1382487744091 19: adding http://bitworking.org/news/2011/04/uris
+info: spew: 1382487744115 19: adding http://bitworking.org/news/2011/03/peak-stuff
+info: spew: 1382487744140 19: adding http://bitworking.org/news/2011/02/spammers
+info: spew: 1382487744160 19: updating high-water mark for http://bitworking.org/news/feed/
+info: spew: 1382487745979 20: about to crawl 20/206
+info: spew: 1382487745980 20: crawling feed http://blakemasters.com/rss
+info: spew: 1382487750985 21: about to crawl 21/206
+info: spew: 1382487750986 21: crawling feed http://deadmemes.net/feed/
+info: spew: 1382487752662 20: received feed for http://blakemasters.com/rss
+info: spew: 1382487752673 20: feedItems
+info: spew: 1382487752673 20: 20 items
+info: spew: 1382487752673 20: adding 20 urls
+info: spew: 1382487752673 20: adding http://blakemasters.com/post/52913477711
+info: spew: 1382487752686 20: adding http://blakemasters.com/post/51566694123
+info: spew: 1382487752708 20: adding http://blakemasters.com/post/51006047949
+info: spew: 1382487752732 20: adding http://blakemasters.com/post/49795718233
+info: spew: 1382487752758 20: adding http://blakemasters.com/post/48677306931
+info: spew: 1382487752782 20: adding http://blakemasters.com/post/45918950617
+info: spew: 1382487752807 20: adding http://blakemasters.com/post/43083829922
+info: spew: 1382487752832 20: adding http://blakemasters.com/post/42414266349
+info: spew: 1382487752857 20: adding http://blakemasters.com/post/41924634083
+info: spew: 1382487752880 20: adding http://blakemasters.com/post/40785138719
+info: spew: 1382487752899 20: adding http://blakemasters.com/post/39611784155
+info: spew: 1382487752916 20: adding http://blakemasters.com/post/37718729412
+info: spew: 1382487752932 20: adding http://blakemasters.com/post/37411481044
+info: spew: 1382487752951 20: adding http://blakemasters.com/post/37113468298
+info: spew: 1382487752971 20: adding http://blakemasters.com/post/36305246882
+info: spew: 1382487752988 20: adding http://blakemasters.com/post/35895253420
+info: spew: 1382487753007 20: adding http://blakemasters.com/post/31447116083
+info: spew: 1382487753033 20: adding http://blakemasters.com/post/28516050984
+info: spew: 1382487753055 20: adding http://blakemasters.com/post/25595534796
+info: spew: 1382487753076 20: adding http://blakemasters.com/post/25149261055
+info: spew: 1382487753097 20: updating high-water mark for http://blakemasters.com/rss
+info: spew: 1382487753100 21: received feed for http://deadmemes.net/feed/
+info: spew: 1382487753103 21: feedItems
+info: spew: 1382487753104 21: 10 items
+info: spew: 1382487753104 21: adding 10 urls
+info: spew: 1382487753105 21: adding http://deadmemes.net/2012/09/13/wheezy-domu-pygrub/
+info: spew: 1382487753121 21: adding http://deadmemes.net/2012/07/27/kernel-panic-when-upgrading-to-mountain-lion/
+info: spew: 1382487753142 21: adding http://deadmemes.net/2012/04/30/capistrano-and-the-shell-used-for-run/
+info: spew: 1382487753166 21: adding http://deadmemes.net/2011/12/07/apparently-someone-reads-this-blog-my-apologies/
+info: spew: 1382487753185 21: adding http://deadmemes.net/2011/11/20/migrating-from-windows-dns-to-bind/
+info: spew: 1382487753210 21: adding http://deadmemes.net/2011/10/28/rvm-install-fails-on-ubuntu-11-10/
+info: spew: 1382487753234 21: adding http://deadmemes.net/2011/09/23/a-honeycomb-of-discontent/
+info: spew: 1382487753261 21: adding http://deadmemes.net/2011/06/07/the-penitent-man-kneels-before-goddess/
+info: spew: 1382487753285 21: adding http://deadmemes.net/2011/04/01/april-fools/
+info: spew: 1382487753307 21: adding http://deadmemes.net/2011/03/05/freebsd-8-2-hvmxen4-update/
+info: spew: 1382487753324 21: updating high-water mark for http://deadmemes.net/feed/
+info: spew: 1382487755991 22: about to crawl 22/206
+info: spew: 1382487755991 22: crawling feed http://feeds.feedburner.com/olabini
+info: spew: 1382487756305 22: received feed for http://feeds.feedburner.com/olabini
+info: spew: 1382487756311 22: feedItems
+info: spew: 1382487756312 22: 10 items
+info: spew: 1382487756312 22: adding 10 urls
+info: spew: 1382487756313 22: adding https://olabini.com/blog/2013/09/switching-my-life/
+info: spew: 1382487756335 22: adding https://olabini.com/blog/2013/09/technical-details-from-snowden/
+info: spew: 1382487756358 22: adding https://olabini.com/blog/2013/05/how-do-you-safely-communicate-over-email/
+info: spew: 1382487756380 22: adding https://olabini.com/blog/2012/11/complexity-and-brain-size/
+info: spew: 1382487756404 22: adding https://olabini.com/blog/2012/10/a-new-server-infrastructure/
+info: spew: 1382487756429 22: adding https://olabini.com/blog/2012/08/passwords-are-terrible/
+info: spew: 1382487756451 22: adding https://olabini.com/blog/2012/08/6-months-with-clojure/
+info: spew: 1382487756475 22: adding https://olabini.com/blog/2012/02/notes-on-syntax/
+info: spew: 1382487756500 22: adding https://olabini.com/blog/2011/11/announcing-jescov-javascript-code-coverage/
+info: spew: 1382487756527 22: adding https://olabini.com/blog/2011/10/javascript-in-the-small/
+info: spew: 1382487756554 22: updating high-water mark for http://feeds.feedburner.com/olabini
+info: spew: 1382487760996 23: about to crawl 23/206
+info: spew: 1382487760997 23: crawling feed http://bosker.wordpress.com/feed/
+info: spew: 1382487762404 23: received feed for http://bosker.wordpress.com/feed/
+info: spew: 1382487762414 23: feedItems
+info: spew: 1382487762414 23: 10 items
+info: spew: 1382487762415 23: adding 10 urls
+info: spew: 1382487762416 23: adding http://bosker.wordpress.com/2013/08/18/i-hate-the-pumping-lemma/
+info: spew: 1382487762429 23: adding http://bosker.wordpress.com/2013/08/16/using-group-theory-to-understand-unix-command-substitution/
+info: spew: 1382487762443 23: adding http://bosker.wordpress.com/2013/07/10/venn-diagram-partitioning/
+info: spew: 1382487762466 23: adding http://bosker.wordpress.com/2013/05/10/linear-logic-without-units/
+info: spew: 1382487762491 23: adding http://bosker.wordpress.com/2013/04/19/puzzles-like-adrift/
+info: spew: 1382487762516 23: adding http://bosker.wordpress.com/2013/03/13/adrift-is-np-complete/
+info: spew: 1382487762537 23: adding http://bosker.wordpress.com/2012/10/27/john-h-conway-and-the-invention-of-the-filing-cabinet/
+info: spew: 1382487762559 23: adding http://bosker.wordpress.com/2012/07/23/the-prisoners-dilemma/
+info: spew: 1382487762584 23: adding http://bosker.wordpress.com/2012/05/18/cartograms-and-the-carbon-map/
+info: spew: 1382487762610 23: adding http://bosker.wordpress.com/2012/05/10/on-editing-text/
+info: spew: 1382487762633 23: updating high-water mark for http://bosker.wordpress.com/feed/
+info: spew: 1382487766002 24: about to crawl 24/206
+info: spew: 1382487766002 24: crawling feed http://worrydream.com/feed.xml
+info: spew: 1382487766964 24: received feed for http://worrydream.com/feed.xml
+info: spew: 1382487766968 24: feedItems
+info: spew: 1382487766968 24: 0 items
+info: spew: 1382487766968 24: Trying to parse as an atom feed
+info: spew: 1382487766968 24: 36 entries
+info: spew: 1382487766970 24: 36 urls
+info: spew: 1382487766970 24: adding 36 urls
+info: spew: 1382487766970 24: adding http://worrydream.com/
+info: spew: 1382487766988 24: http://worrydream.com/ already exists
+info: spew: 1382487766988 24: updating high-water mark for http://worrydream.com/feed.xml
+info: spew: 1382487771007 25: about to crawl 25/206
+info: spew: 1382487771007 25: crawling feed http://brianwill.net/blog/feed/
+info: spew: 1382487773285 25: received feed for http://brianwill.net/blog/feed/
+info: spew: 1382487773289 25: feedItems
+info: spew: 1382487773289 25: 10 items
+info: spew: 1382487773290 25: adding 10 urls
+info: spew: 1382487773290 25: adding http://brianwill.net/blog/2012/11/13/android-should-get-rid-of-the-back-button/
+info: spew: 1382487773311 25: adding http://brianwill.net/blog/2012/05/09/everyone-is-awful/
+info: spew: 1382487773328 25: adding http://brianwill.net/blog/2012/03/29/not-all-bad-laws-are-unconstitutional/
+info: spew: 1382487773349 25: adding http://brianwill.net/blog/2012/03/02/reverse-godwins-law/
+info: spew: 1382487773366 25: adding http://brianwill.net/blog/2012/03/01/the-presidential-primary-system-is-ridiculous-but-reform-is-doable/
+info: spew: 1382487773388 25: adding http://brianwill.net/blog/2012/02/26/advertising-is-not-speech/
+info: spew: 1382487773410 25: adding http://brianwill.net/blog/2012/02/22/speed-racer-is-one-of-the-best-films-of-the-last-10-years/
+info: spew: 1382487773436 25: adding http://brianwill.net/blog/2012/02/16/wisconsin-has-a-real-shit-flag/
+info: spew: 1382487773458 25: adding http://brianwill.net/blog/2012/02/14/lillilllliilillilllillllillllliillll-yes-syntax-matters/
+info: spew: 1382487773481 25: adding http://brianwill.net/blog/2012/02/13/other-peoples-choices-matter/
+info: spew: 1382487773504 25: updating high-water mark for http://brianwill.net/blog/feed/
+info: spew: 1382487776013 26: about to crawl 26/206
+info: spew: 1382487776013 26: crawling feed http://feeds.feedburner.com/calamitiesofnature
+info: spew: 1382487781015 27: about to crawl 27/206
+info: spew: 1382487781015 27: crawling feed http://carlos.bueno.org/atom.xml
+info: spew: 1382487781704 26: received feed for http://feeds.feedburner.com/calamitiesofnature
+info: spew: 1382487781707 26: feedItems
+info: spew: 1382487781708 26: 10 items
+info: spew: 1382487781708 26: adding 10 urls
+info: spew: 1382487781709 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/CQnub9qlGy4/
+info: spew: 1382487781726 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/FucQn-A9YIk/
+info: spew: 1382487781743 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/QUMqmgH6NDQ/
+info: spew: 1382487781757 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/gxQYUz_096o/
+info: spew: 1382487781780 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/WD8adulgYI8/
+info: spew: 1382487781807 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/9kXFTdBB6yE/
+info: spew: 1382487781831 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/gbAl7IkONa8/
+info: spew: 1382487781858 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/SZOwwYOOoh8/
+info: spew: 1382487781881 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/F2VAR21TAU8/
+info: spew: 1382487781906 26: adding http://feedproxy.google.com/~r/calamitiesofnature/~3/88bOgVpA8UQ/
+info: spew: 1382487781924 26: updating high-water mark for http://feeds.feedburner.com/calamitiesofnature
+info: spew: 1382487782562 27: received feed for http://carlos.bueno.org/atom.xml
+info: spew: 1382487782576 27: feedItems
+info: spew: 1382487782576 27: 0 items
+info: spew: 1382487782576 27: Trying to parse as an atom feed
+info: spew: 1382487782576 27: 23 entries
+info: spew: 1382487782576 27: 23 urls
+info: spew: 1382487782576 27: adding 23 urls
+info: spew: 1382487782577 27: adding http://carlos.bueno.org/2013/09/effective-debugging.html
+info: spew: 1382487782593 27: adding http://carlos.bueno.org/2013/08/too-hard.html
+info: spew: 1382487782615 27: adding http://carlos.bueno.org/2013/06/apprenticeship.html
+info: spew: 1382487782640 27: adding http://carlos.bueno.org/2013/03/mystery-puzzles.html
+info: spew: 1382487782658 27: adding http://carlos.bueno.org/2013/03/internet-shape.html
+info: spew: 1382487782679 27: adding http://carlos.bueno.org/2012/11/falling-around.html
+info: spew: 1382487782703 27: adding http://carlos.bueno.org/2012/08/writers-reading-list.html
+info: spew: 1382487782728 27: adding http://carlos.bueno.org/2012/08/sample-data.html
+info: spew: 1382487782753 27: adding http://carlos.bueno.org/2012/08/pascals-apology.html
+info: spew: 1382487782778 27: adding http://carlos.bueno.org/2012/07/teaching-is-compression.html
+info: spew: 1382487782803 27: adding http://carlos.bueno.org/2012/07/paper-bitcoins.html
+info: spew: 1382487782830 27: adding http://carlos.bueno.org/2012/07/get-that-job.html
+info: spew: 1382487782851 27: adding http://carlos.bueno.org/2012/03/rocking-kickstarter.html
+info: spew: 1382487782875 27: adding http://carlos.bueno.org/2012/02/pricebot2.html
+info: spew: 1382487782902 27: adding http://carlos.bueno.org/2012/02/bots-seized-control.html
+info: spew: 1382487782924 27: adding http://carlos.bueno.org/2011/11/lauren-ipsum-tinker.html
+info: spew: 1382487782945 27: adding http://carlos.bueno.org/2011/10/wandering.html
+info: spew: 1382487782969 27: adding http://carlos.bueno.org/2011/10/timing.html
+info: spew: 1382487782993 27: adding http://carlos.bueno.org/2011/10/fair-coin.html
+info: spew: 1382487783019 27: adding http://carlos.bueno.org/2011/09/ipsum.html
+info: spew: 1382487783045 27: adding http://carlos.bueno.org/2011/07/doppler.html
+info: spew: 1382487783068 27: adding http://carlos.bueno.org/2011/01/tortoise.html
+info: spew: 1382487783094 27: adding http://carlos.bueno.org/2010/11/full-stack.html
+info: spew: 1382487783115 27: updating high-water mark for http://carlos.bueno.org/atom.xml
+info: spew: 1382487786019 28: about to crawl 28/206
+info: spew: 1382487786020 28: crawling feed http://blog.davidtate.org/feed/
+info: spew: 1382487791024 29: about to crawl 29/206
+info: spew: 1382487791025 29: crawling feed http://www.chrisstucchio.com/blog/atom.xml
+info: spew: 1382487796029 30: about to crawl 30/206
+info: spew: 1382487796029 30: crawling feed http://churnlabs.wordpress.com/feed/
+info: spew: 1382487799570 28: received feed for http://blog.davidtate.org/feed/
+info: spew: 1382487799576 28: feedItems
+info: spew: 1382487799576 28: 10 items
+info: spew: 1382487799577 28: adding 10 urls
+info: spew: 1382487799577 28: adding http://blog.davidtate.org/2013/10/tribal-sql/
+info: spew: 1382487799602 28: adding http://blog.davidtate.org/2013/09/subtle-benefits-of-supporting-remote-workers/
+info: spew: 1382487799626 28: adding http://blog.davidtate.org/2013/09/running-at-runlevel-1-how-to-function-on-little-sleep-for-an-extended-period/
+info: spew: 1382487799651 28: adding http://blog.davidtate.org/2013/04/on-mayer-remote-workers-have-a-default-culture/
+info: spew: 1382487799672 28: adding http://blog.davidtate.org/2013/01/companies-that-support-remote-workers-win-against-those-that-dont/
+info: spew: 1382487799698 28: adding http://blog.davidtate.org/2013/01/super-productivity-is-deeply-personal-dont-listen-to-anyone-else/
+info: spew: 1382487799720 28: adding http://blog.davidtate.org/2012/12/my-2013-resolution-get-way-weirder/
+info: spew: 1382487799746 28: adding http://blog.davidtate.org/2012/04/how-to-be-creative-non-silly-advice-from-john-cleese/
+info: spew: 1382487799769 28: adding http://blog.davidtate.org/2012/01/you-will-lose-money-working-at-a-startup-why-do-it/
+info: spew: 1382487799775 28: adding http://blog.davidtate.org/2012/01/secret-developer-acronyms/
+info: spew: 1382487799797 28: updating high-water mark for http://blog.davidtate.org/feed/
+info: spew: 1382487801033 31: about to crawl 31/206
+info: spew: 1382487801034 31: crawling feed http://feeds2.feedburner.com/codahale
+info: spew: 1382487803373 29: received feed for http://www.chrisstucchio.com/blog/atom.xml
+info: spew: 1382487803382 29: feedItems
+info: spew: 1382487803383 29: 0 items
+info: spew: 1382487803383 29: Trying to parse as an atom feed
+info: spew: 1382487803383 29: 49 entries
+info: spew: 1382487803384 29: 49 urls
+info: spew: 1382487803384 29: adding 49 urls
+info: spew: 1382487803384 29: adding http://www.chrisstucchio.com/blog/2013/how_your_analytics_software_works.html
+info: spew: 1382487803386 29: adding http://www.chrisstucchio.com/blog/2013/compound_aggregates.html
+info: spew: 1382487803405 29: adding http://www.chrisstucchio.com/blog/2013/what_is_bayesian_statistics.html
+info: spew: 1382487803441 29: adding http://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
+info: spew: 1382487803446 29: adding http://www.chrisstucchio.com/blog/2013/gc_overhead_limit.html
+info: spew: 1382487803466 29: adding http://www.chrisstucchio.com/blog/2013/human_checksum.html
+info: spew: 1382487803493 29: adding http://www.chrisstucchio.com/blog/2013/bayesian_bandit.html
+info: spew: 1382487803532 29: adding http://www.chrisstucchio.com/blog/2013/why_not_python.html
+info: spew: 1382487803553 29: adding http://www.chrisstucchio.com/blog/2013/write_some_fucking_code.html
+info: spew: 1382487803576 29: adding http://www.chrisstucchio.com/blog/2013/deduplication.html
+info: spew: 1382487803598 29: adding http://www.chrisstucchio.com/blog/2013/bayesian_analysis_conversion_rates.html
+info: spew: 1382487803622 29: adding http://www.chrisstucchio.com/blog/2013/magic_of_conjugate_priors.html
+info: spew: 1382487803628 29: adding http://www.chrisstucchio.com/blog/2013/metrics_manifesto.html
+info: spew: 1382487803668 29: adding http://www.chrisstucchio.com/blog/2012/write_queries_with_tiramisu.html
+info: spew: 1382487803674 29: adding http://www.chrisstucchio.com/blog/2012/flash_crash_flash_in_the_pan.html
+info: spew: 1382487803692 29: adding http://www.chrisstucchio.com/blog/2012/what_im_reading_how_quantum_mechanics_should_be_taught.html
+info: spew: 1382487803724 29: adding http://www.chrisstucchio.com/blog/2012/what_im_reading_race_iq_economics.html
+info: spew: 1382487803748 29: adding http://www.chrisstucchio.com/blog/2012/linear_programming.html
+info: spew: 1382487803770 29: adding http://www.chrisstucchio.com/blog/2012/bigger_ticks_more_rent_seeking.html
+info: spew: 1382487803794 29: adding http://www.chrisstucchio.com/blog/2012/bandit_algorithms_vs_ab.html
+info: spew: 1382487803800 29: adding http://www.chrisstucchio.com/blog/2012/human_vs_machine_progress.html
+info: spew: 1382487803836 29: adding http://www.chrisstucchio.com/blog/2012/dont_use_scatterplots.html
+info: spew: 1382487803842 29: adding http://www.chrisstucchio.com/blog/2012/subpenny_rule_responses.html
+info: spew: 1382487803865 29: adding http://www.chrisstucchio.com/blog/2012/hft_whats_broken.html
+info: spew: 1382487803888 29: adding http://www.chrisstucchio.com/blog/2012/why_i_ask_fermi_problems.html
+info: spew: 1382487803927 29: adding http://www.chrisstucchio.com/blog/2012/unemployment_and_market_clearing.html
+info: spew: 1382487803950 29: adding http://www.chrisstucchio.com/blog/2012/hft_apology2.html
+info: spew: 1382487803956 29: adding http://www.chrisstucchio.com/blog/2012/idli.html
+info: spew: 1382487803997 29: adding http://www.chrisstucchio.com/blog/2012/hft_apology.html
+info: spew: 1382487804020 29: adding http://www.chrisstucchio.com/blog/2012/in_app_caching.html
+info: spew: 1382487804043 29: adding http://www.chrisstucchio.com/blog/2012/one_hiring_filter_that_works.html
+info: spew: 1382487804049 29: adding http://www.chrisstucchio.com/blog/2012/leaving_academia.html
+info: spew: 1382487804090 29: adding http://www.chrisstucchio.com/blog/2012/introducing_hobo.html
+info: spew: 1382487804095 29: adding http://www.chrisstucchio.com/blog/2011/speed_up_postgres_ec2.html
+info: spew: 1382487804135 29: adding http://www.chrisstucchio.com/blog/2011/network_problems_cloning_ubuntu_vm.html
+info: spew: 1382487804142 29: adding http://www.chrisstucchio.com/blog/2011/weight_stability.html
+info: spew: 1382487804166 29: adding http://www.chrisstucchio.com/blog/2011/techcrunch_messes_up_the_math_on_sexism.html
+info: spew: 1382487804206 29: adding http://www.chrisstucchio.com/blog/2011/why_americans_dont_hire_servants.html
+info: spew: 1382487804213 29: adding http://www.chrisstucchio.com/blog/2011/immigrants_simpsons_paradox_great_stagnation.html
+info: spew: 1382487804251 29: adding http://www.chrisstucchio.com/blog/2011/mapreduce_explained.html
+info: spew: 1382487804274 29: adding http://www.chrisstucchio.com/blog/2011/why_the_poor_dont_work.html
+info: spew: 1382487804298 29: adding http://www.chrisstucchio.com/blog/2011/high_heel_bubble.html
+info: spew: 1382487804321 29: adding http://www.chrisstucchio.com/blog/2011/null_pointer_exception_amazon_s3.html
+info: spew: 1382487804343 29: adding http://www.chrisstucchio.com/blog/2011/investment_unemployment_role_of_women.html
+info: spew: 1382487804362 29: adding http://www.chrisstucchio.com/blog/2011/mapwritable_sometimes_a_performance_hog.html
+info: spew: 1382487804377 29: adding http://www.chrisstucchio.com/blog/2011/structural_shift_in_the_economy.html
+info: spew: 1382487804381 29: adding http://www.chrisstucchio.com/blog/2011/hadoop_error_response_code_503.html
+info: spew: 1382487804419 29: adding http://www.chrisstucchio.com/blog/2011/inanity_of_overeating.html
+info: spew: 1382487804444 29: adding http://www.chrisstucchio.com/blog/2011/older_posts.html
+info: spew: 1382487804450 29: updating high-water mark for http://www.chrisstucchio.com/blog/atom.xml
+info: spew: 1382487804528 30: received feed for http://churnlabs.wordpress.com/feed/
+info: spew: 1382487804532 30: feedItems
+info: spew: 1382487804533 30: 7 items
+info: spew: 1382487804533 30: adding 7 urls
+info: spew: 1382487804534 30: adding http://churnlabs.wordpress.com/2011/11/09/gnonstop-v2/
+info: spew: 1382487804538 30: adding http://churnlabs.wordpress.com/2011/06/20/gnonstop-gnomes-is-a-go/
+info: spew: 1382487804578 30: adding http://churnlabs.wordpress.com/2011/04/09/my-first-days-at-churn-labs/
+info: spew: 1382487804602 30: adding http://churnlabs.wordpress.com/2011/04/04/on-equity/
+info: spew: 1382487804625 30: adding http://churnlabs.wordpress.com/2011/04/01/first-week-at-churn-labs/
+info: spew: 1382487804631 30: adding http://churnlabs.wordpress.com/2011/03/14/personal-commentary-from-miker/
+info: spew: 1382487804671 30: adding http://churnlabs.wordpress.com/2011/03/12/looking-forward-to-churn-and-some-lessons-from-the-past/
+info: spew: 1382487804677 30: updating high-water mark for http://churnlabs.wordpress.com/feed/
+info: spew: 1382487806039 32: about to crawl 32/206
+info: spew: 1382487806039 32: crawling feed http://feeds.codecommit.com/codecommit
+info: spew: 1382487807696 31: received feed for http://feeds2.feedburner.com/codahale
+info: spew: 1382487807705 31: feedItems
+info: spew: 1382487807705 31: 0 items
+info: spew: 1382487807705 31: Trying to parse as an atom feed
+info: spew: 1382487807705 31: 10 entries
+info: spew: 1382487807705 31: 10 urls
+info: spew: 1382487807705 31: adding 10 urls
+info: spew: 1382487807705 31: adding http://feedproxy.google.com/~r/codahale/~3/7pLlVL6mi8U/
+info: spew: 1382487807709 31: adding http://feedproxy.google.com/~r/codahale/~3/6TbpeG4M6ik/
+info: spew: 1382487807739 31: adding http://feedproxy.google.com/~r/codahale/~3/E74EfKexW0E/
+info: spew: 1382487807745 31: adding http://feedproxy.google.com/~r/codahale/~3/gjqUa5dav4k/
+info: spew: 1382487807772 31: adding http://feedproxy.google.com/~r/codahale/~3/HxW3-pDTAcY/
+info: spew: 1382487807787 31: adding http://feedproxy.google.com/~r/codahale/~3/iiOVKX2Op54/
+info: spew: 1382487807808 31: adding http://feedproxy.google.com/~r/codahale/~3/JVFLr_UjNO0/
+info: spew: 1382487807828 31: adding http://feedproxy.google.com/~r/codahale/~3/K7JJk9BUWio/
+info: spew: 1382487807852 31: adding http://feedproxy.google.com/~r/codahale/~3/Wnp8aBuGXeA/
+info: spew: 1382487807859 31: adding http://feedproxy.google.com/~r/codahale/~3/pnL1YBIAM5E/
+info: spew: 1382487807881 31: updating high-water mark for http://feeds2.feedburner.com/codahale
+info: spew: 1382487807891 32: received feed for http://feeds.codecommit.com/codecommit
+info: spew: 1382487807902 32: feedItems
+info: spew: 1382487807902 32: 0 items
+info: spew: 1382487807902 32: Trying to parse as an atom feed
+info: spew: 1382487807902 32: 10 entries
+info: spew: 1382487807902 32: 10 urls
+info: spew: 1382487807902 32: adding 10 urls
+info: spew: 1382487807903 32: adding http://feeds.codecommit.com/~r/codecommit/~3/oEVW4-H4O0k/monads-are-not-metaphors
+info: spew: 1382487807920 32: adding http://feeds.codecommit.com/~r/codecommit/~3/8tt3IMJapGE/unveiling-the-mysteries-of-gll-part-2
+info: spew: 1382487807935 32: adding http://feeds.codecommit.com/~r/codecommit/~3/CkAEx5Ej69k/unveiling-the-mysteries-of-gll-part-1
+info: spew: 1382487807955 32: adding http://feeds.codecommit.com/~r/codecommit/~3/eLasFeJA6uo/working-with-scalas-xml-support
+info: spew: 1382487807979 32: adding http://feeds.codecommit.com/~r/codecommit/~3/n9kZSOXW0VY/understanding-and-applying-operational-transformation
+info: spew: 1382487807985 32: adding http://feeds.codecommit.com/~r/codecommit/~3/P8VHEcXpgCQ/the-magic-behind-parser-combinators
+info: spew: 1382487808008 32: adding http://feeds.codecommit.com/~r/codecommit/~3/W3DlbKROU-8/interop-between-java-and-scala
+info: spew: 1382487808028 32: adding http://feeds.codecommit.com/~r/codecommit/~3/2E_dZTn8dF8/hacking-buildr-interactive-shell-support
+info: spew: 1382487808068 32: adding http://feeds.codecommit.com/~r/codecommit/~3/UgOIOjaqhTk/gun-for-hire-off-topic
+info: spew: 1382487808091 32: adding http://feeds.codecommit.com/~r/codecommit/~3/R-fakZfpLQQ/joint-compilation-of-scala-and-java-sources
+info: spew: 1382487808096 32: updating high-water mark for http://feeds.codecommit.com/codecommit
+info: spew: 1382487811044 33: about to crawl 33/206
+info: spew: 1382487811044 33: crawling feed http://feeds.feedburner.com/codinghorror/
+info: spew: 1382487811968 33: received feed for http://feeds.feedburner.com/codinghorror/
+info: spew: 1382487811976 33: feedItems
+info: spew: 1382487811976 33: 10 items
+info: spew: 1382487811976 33: adding 10 urls
+info: spew: 1382487811976 33: adding http://www.codinghorror.com/blog/2013/10/why-does-windows-have-terrible-battery-life.html
+info: spew: 1382487811979 33: adding http://www.codinghorror.com/blog/2013/10/you-dont-need-millions-of-dollars.html
+info: spew: 1382487812014 33: adding http://www.codinghorror.com/blog/2013/10/updating-your-utility-belt.html
+info: spew: 1382487812020 33: adding http://www.codinghorror.com/blog/2013/09/the-2013-htpc-build.html
+info: spew: 1382487812060 33: adding http://www.codinghorror.com/blog/2013/08/the-code-keyboard.html
+info: spew: 1382487812080 33: adding http://www.codinghorror.com/blog/2013/07/rule-of-three.html
+info: spew: 1382487812095 33: adding http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html
+info: spew: 1382487812100 33: adding http://www.codinghorror.com/blog/2013/03/why-ruby.html
+info: spew: 1382487812121 33: adding http://www.codinghorror.com/blog/2013/02/civilized-discourse-construction-kit.html
+info: spew: 1382487812144 33: adding http://www.codinghorror.com/blog/2013/01/the-end-of-ragequitting.html
+info: spew: 1382487812167 33: updating high-water mark for http://feeds.feedburner.com/codinghorror/
+info: spew: 1382487816049 34: about to crawl 34/206
+info: spew: 1382487816049 34: crawling feed http://feeds.feedburner.com/CodusOperandi
+info: spew: 1382487816233 34: received feed for http://feeds.feedburner.com/CodusOperandi
+info: spew: 1382487816234 34: feedItems
+info: spew: 1382487816235 34: 7 items
+info: spew: 1382487816235 34: adding 7 urls
+info: spew: 1382487816236 34: adding http://www.codusoperandi.com/posts/hello-world
+info: spew: 1382487816242 34: adding http://www.codusoperandi.com/posts/forget-the-techcrunch-launch
+info: spew: 1382487816278 34: adding http://www.codusoperandi.com/posts/bootstrapping-with-kids
+info: spew: 1382487816304 34: adding http://www.codusoperandi.com/posts/increasing-your-luck-surface-area
+info: spew: 1382487816329 34: adding http://www.codusoperandi.com/posts/sleeping-on-mike-arringtons-couch
+info: spew: 1382487816355 34: adding http://www.codusoperandi.com/posts/how-i-screwed-up-my-google-acquisition
+info: spew: 1382487816380 34: adding http://www.codusoperandi.com/posts/why-i-quit-algorithmic-trading-to-do-web-startups
+info: spew: 1382487816403 34: updating high-water mark for http://feeds.feedburner.com/CodusOperandi
+info: spew: 1382487821054 35: about to crawl 35/206
+info: spew: 1382487821054 35: crawling feed http://blog.natekohl.net/feed/
+info: spew: 1382487822610 35: received feed for http://blog.natekohl.net/feed/
+info: spew: 1382487822615 35: feedItems
+info: spew: 1382487822615 35: 10 items
+info: spew: 1382487822616 35: adding 10 urls
+info: spew: 1382487822616 35: adding http://blog.natekohl.net/programming-gibberish
+info: spew: 1382487822632 35: adding http://blog.natekohl.net/the-bar-exam-for-language-lawyers
+info: spew: 1382487822655 35: adding http://blog.natekohl.net/cross-compiling-and-popularity
+info: spew: 1382487822681 35: adding http://blog.natekohl.net/what's-in-an-enum-
+info: spew: 1382487822707 35: adding http://blog.natekohl.net/rvalue-references-and-rvalues
+info: spew: 1382487822734 35: adding http://blog.natekohl.net/a-type-by-any-other-name
+info: spew: 1382487822759 35: adding http://blog.natekohl.net/diary-of-an-unemployed-software-engineer,-day-5
+info: spew: 1382487822781 35: adding http://blog.natekohl.net/diary-of-an-unemployed-software-engineer,-day-1
+info: spew: 1382487822802 35: adding http://blog.natekohl.net/explicit-out-parameters
+info: spew: 1382487822823 35: adding http://blog.natekohl.net/get-yer-filthy-hands-off-my-control-block
+info: spew: 1382487822846 35: updating high-water mark for http://blog.natekohl.net/feed/
+info: spew: 1382487826059 36: about to crawl 36/206
+info: spew: 1382487826059 36: crawling feed http://found-an-url.blogspot.com/feeds/posts/default
+info: spew: 1382487827183 36: received feed for http://found-an-url.blogspot.com/feeds/posts/default
+info: spew: 1382487827185 36: feedItems
+info: spew: 1382487827185 36: 0 items
+info: spew: 1382487827185 36: Trying to parse as an atom feed
+info: spew: 1382487827186 36: 2 entries
+info: spew: 1382487827186 36: 2 urls
+info: spew: 1382487827186 36: adding 2 urls
+info: spew: 1382487827186 36: adding http://found-an-url.blogspot.com/feeds/2942198575891142769/comments/default
+info: spew: 1382487827204 36: adding http://found-an-url.blogspot.com/feeds/1275365082203680610/comments/default
+info: spew: 1382487827225 36: updating high-water mark for http://found-an-url.blogspot.com/feeds/posts/default
+info: spew: 1382487831064 37: about to crawl 37/206
+info: spew: 1382487831065 37: crawling feed http://consultingadultblog.blogspot.com/feeds/posts/default
+info: spew: 1382487836070 38: about to crawl 38/206
+info: spew: 1382487836070 38: crawling feed http://cycle-gap.blogspot.com/feeds/posts/default
+info: spew: 1382487840163 37: received feed for http://consultingadultblog.blogspot.com/feeds/posts/default
+info: spew: 1382487840177 37: feedItems
+info: spew: 1382487840177 37: 0 items
+info: spew: 1382487840177 37: Trying to parse as an atom feed
+info: spew: 1382487840178 37: 25 entries
+info: spew: 1382487840178 37: 25 urls
+info: spew: 1382487840178 37: adding 25 urls
+info: spew: 1382487840178 37: adding http://consultingadultblog.blogspot.com/feeds/6288196450573162809/comments/default
+info: spew: 1382487840191 37: adding http://consultingadultblog.blogspot.com/feeds/3579770042226449171/comments/default
+info: spew: 1382487840209 37: adding http://consultingadultblog.blogspot.com/feeds/5557998618917672375/comments/default
+info: spew: 1382487840229 37: adding http://consultingadultblog.blogspot.com/feeds/9113449846315464083/comments/default
+info: spew: 1382487840254 37: adding http://consultingadultblog.blogspot.com/feeds/2828225521370668901/comments/default
+info: spew: 1382487840279 37: adding http://consultingadultblog.blogspot.com/feeds/5523273395826562846/comments/default
+info: spew: 1382487840301 37: adding http://consultingadultblog.blogspot.com/feeds/8046997230162176749/comments/default
+info: spew: 1382487840320 37: adding http://consultingadultblog.blogspot.com/feeds/6803666723506373982/comments/default
+info: spew: 1382487840345 37: adding http://consultingadultblog.blogspot.com/feeds/7671985673905545370/comments/default
+info: spew: 1382487840371 37: adding http://consultingadultblog.blogspot.com/feeds/7409730452615664680/comments/default
+info: spew: 1382487840394 37: adding http://consultingadultblog.blogspot.com/feeds/1482682790505882468/comments/default
+info: spew: 1382487840420 37: adding http://consultingadultblog.blogspot.com/feeds/7156381689202670267/comments/default
+info: spew: 1382487840443 37: adding http://consultingadultblog.blogspot.com/feeds/4515426800398046834/comments/default
+info: spew: 1382487840464 37: adding http://consultingadultblog.blogspot.com/feeds/2002279783573560947/comments/default
+info: spew: 1382487840480 37: adding http://consultingadultblog.blogspot.com/feeds/1625677569956283082/comments/default
+info: spew: 1382487840491 37: adding http://consultingadultblog.blogspot.com/feeds/4896537626607099398/comments/default
+info: spew: 1382487840504 37: adding http://consultingadultblog.blogspot.com/feeds/1065026237204336992/comments/default
+info: spew: 1382487840525 37: adding http://consultingadultblog.blogspot.com/feeds/6999353997787118933/comments/default
+info: spew: 1382487840542 37: adding http://consultingadultblog.blogspot.com/feeds/4212424600306269865/comments/default
+info: spew: 1382487840563 37: adding http://consultingadultblog.blogspot.com/feeds/5760849227248696775/comments/default
+info: spew: 1382487840583 37: adding http://consultingadultblog.blogspot.com/feeds/4774032734844883555/comments/default
+info: spew: 1382487840604 37: adding http://consultingadultblog.blogspot.com/feeds/973090110451228002/comments/default
+info: spew: 1382487840631 37: adding http://consultingadultblog.blogspot.com/feeds/4435682195232699718/comments/default
+info: spew: 1382487840655 37: adding http://consultingadultblog.blogspot.com/feeds/5293387301350774916/comments/default
+info: spew: 1382487840682 37: adding http://techcrunch.com/2010/05/02/how-funny-are-you-microsoft-explains-4-levels-of-humor-proficiency/
+info: spew: 1382487840705 37: updating high-water mark for http://consultingadultblog.blogspot.com/feeds/posts/default
+info: spew: 1382487841075 39: about to crawl 39/206
+info: spew: 1382487841075 39: crawling feed http://blog.davidchudzicki.com/feeds/posts/default
+info: spew: 1382487843300 39: received feed for http://blog.davidchudzicki.com/feeds/posts/default
+info: spew: 1382487843306 39: feedItems
+info: spew: 1382487843306 39: 0 items
+info: spew: 1382487843306 39: Trying to parse as an atom feed
+info: spew: 1382487843306 39: 21 entries
+info: spew: 1382487843307 39: 21 urls
+info: spew: 1382487843307 39: adding 21 urls
+info: spew: 1382487843307 39: adding http://blog.davidchudzicki.com/feeds/7858968180788157156/comments/default
+info: spew: 1382487843321 39: adding http://blog.davidchudzicki.com/feeds/6068297686441333169/comments/default
+info: spew: 1382487843345 39: adding http://blog.davidchudzicki.com/feeds/7832179056825289859/comments/default
+info: spew: 1382487843369 39: adding http://blog.davidchudzicki.com/feeds/3573248387087876831/comments/default
+info: spew: 1382487843394 39: adding http://blog.davidchudzicki.com/feeds/1082409802186165814/comments/default
+info: spew: 1382487843415 39: adding http://blog.davidchudzicki.com/feeds/5154259421737263943/comments/default
+info: spew: 1382487843439 39: adding http://blog.davidchudzicki.com/feeds/37849479719029168/comments/default
+info: spew: 1382487843464 39: adding http://blog.davidchudzicki.com/feeds/2590214902228487363/comments/default
+info: spew: 1382487843488 39: adding http://blog.davidchudzicki.com/feeds/9207786591669268933/comments/default
+info: spew: 1382487843505 39: adding http://blog.davidchudzicki.com/feeds/4843369334552124512/comments/default
+info: spew: 1382487843527 39: adding http://blog.davidchudzicki.com/feeds/2908298403729366410/comments/default
+info: spew: 1382487843547 39: adding http://blog.davidchudzicki.com/feeds/3476711218349486341/comments/default
+info: spew: 1382487843566 39: adding http://blog.davidchudzicki.com/feeds/1287597500676982945/comments/default
+info: spew: 1382487843588 39: adding http://blog.davidchudzicki.com/feeds/5594950915430583936/comments/default
+info: spew: 1382487843615 39: adding http://blog.davidchudzicki.com/feeds/2941724471650814204/comments/default
+info: spew: 1382487843636 39: adding http://blog.davidchudzicki.com/feeds/7338142703728908107/comments/default
+info: spew: 1382487843662 39: adding http://blog.davidchudzicki.com/feeds/6560613607162552701/comments/default
+info: spew: 1382487843684 39: adding http://blog.davidchudzicki.com/feeds/8914577659264055023/comments/default
+info: spew: 1382487843703 39: adding http://blog.davidchudzicki.com/feeds/2505479170192052534/comments/default
+info: spew: 1382487843728 39: adding http://blog.davidchudzicki.com/feeds/1741567503673813262/comments/default
+info: spew: 1382487843753 39: adding http://blog.davidchudzicki.com/feeds/9093845671261041042/comments/default
+info: spew: 1382487843777 39: updating high-water mark for http://blog.davidchudzicki.com/feeds/posts/default
+info: spew: 1382487844527 38: received feed for http://cycle-gap.blogspot.com/feeds/posts/default
+info: spew: 1382487844540 38: feedItems
+info: spew: 1382487844540 38: 0 items
+info: spew: 1382487844541 38: Trying to parse as an atom feed
+info: spew: 1382487844541 38: 25 entries
+info: spew: 1382487844542 38: 25 urls
+info: spew: 1382487844542 38: adding 25 urls
+info: spew: 1382487844543 38: adding http://cycle-gap.blogspot.com/feeds/1899826880443724860/comments/default
+info: spew: 1382487844557 38: adding http://cycle-gap.blogspot.com/feeds/5593079471813869740/comments/default
+info: spew: 1382487844580 38: adding http://cycle-gap.blogspot.com/feeds/2715384803083095862/comments/default
+info: spew: 1382487844596 38: adding http://cycle-gap.blogspot.com/feeds/8434794917761176613/comments/default
+info: spew: 1382487844619 38: adding http://cycle-gap.blogspot.com/feeds/1454267114065667789/comments/default
+info: spew: 1382487844640 38: adding http://cycle-gap.blogspot.com/feeds/2825879677603363612/comments/default
+info: spew: 1382487844665 38: adding http://cycle-gap.blogspot.com/feeds/4759946316164761379/comments/default
+info: spew: 1382487844692 38: adding http://cycle-gap.blogspot.com/feeds/2478190424182354360/comments/default
+info: spew: 1382487844716 38: adding http://cycle-gap.blogspot.com/feeds/6713799708138964037/comments/default
+info: spew: 1382487844739 38: adding http://cycle-gap.blogspot.com/feeds/4037600584040309859/comments/default
+info: spew: 1382487844754 38: adding http://cycle-gap.blogspot.com/feeds/8708188064376733592/comments/default
+info: spew: 1382487844778 38: adding http://cycle-gap.blogspot.com/feeds/8074267287581031826/comments/default
+info: spew: 1382487844804 38: adding http://cycle-gap.blogspot.com/feeds/5791761394671339802/comments/default
+info: spew: 1382487844829 38: adding http://cycle-gap.blogspot.com/feeds/624887336546826394/comments/default
+info: spew: 1382487844855 38: adding http://cycle-gap.blogspot.com/feeds/4684398002525119352/comments/default
+info: spew: 1382487844880 38: adding http://cycle-gap.blogspot.com/feeds/8429063171836184362/comments/default
+info: spew: 1382487844905 38: adding http://cycle-gap.blogspot.com/feeds/7518642760197409936/comments/default
+info: spew: 1382487844930 38: adding http://cycle-gap.blogspot.com/feeds/3570649421239707144/comments/default
+info: spew: 1382487844952 38: adding http://cycle-gap.blogspot.com/feeds/8058259957485693561/comments/default
+info: spew: 1382487844976 38: adding http://cycle-gap.blogspot.com/feeds/1650096992741349159/comments/default
+info: spew: 1382487844993 38: adding http://cycle-gap.blogspot.com/feeds/7754836254512992600/comments/default
+info: spew: 1382487845011 38: adding http://cycle-gap.blogspot.com/feeds/6656512748400066219/comments/default
+info: spew: 1382487845031 38: adding http://cycle-gap.blogspot.com/feeds/2617099898942216229/comments/default
+info: spew: 1382487845052 38: adding http://cycle-gap.blogspot.com/feeds/3648629021920625549/comments/default
+info: spew: 1382487845067 38: adding http://cycle-gap.blogspot.com/feeds/3739416462568346177/comments/default
+info: spew: 1382487845086 38: updating high-water mark for http://cycle-gap.blogspot.com/feeds/posts/default
+info: spew: 1382487846080 40: about to crawl 40/206
+info: spew: 1382487846081 40: crawling feed http://david.rothlis.net/articles.feed
+info: spew: 1382487851086 41: about to crawl 41/206
+info: spew: 1382487851087 41: crawling feed http://davidtlang.com/rss
+info: spew: 1382487851468 40: received feed for http://david.rothlis.net/articles.feed
+info: spew: 1382487851470 40: feedItems
+info: spew: 1382487851471 40: 0 items
+info: spew: 1382487851471 40: Trying to parse as an atom feed
+info: spew: 1382487851471 40: 13 entries
+info: spew: 1382487851472 40: 13 urls
+info: spew: 1382487851472 40: adding 13 urls
+info: spew: 1382487851472 40: adding http://david.rothlis.net/c/compilation_model/
+info: spew: 1382487851494 40: adding http://david.rothlis.net/d/templates/
+info: spew: 1382487851517 40: adding http://david.rothlis.net/keyboards/microsoft_natural_osx/
+info: spew: 1382487851536 40: adding http://david.rothlis.net/rails/experience_report/
+info: spew: 1382487851560 40: adding http://david.rothlis.net/tools/case_studies/
+info: spew: 1382487851588 40: adding http://david.rothlis.net/code_presentation/distracting_syntax_highlighting/
+info: spew: 1382487851611 40: adding http://david.rothlis.net/code_presentation/john_mccarthy/
+info: spew: 1382487851624 40: adding http://david.rothlis.net/emacs/howtolearn.html
+info: spew: 1382487851637 40: adding http://david.rothlis.net/unix/shell-basics/
+info: spew: 1382487851651 40: adding http://www.youtube.com/watch?v=Fdn2LxxM7wA
+info: spew: 1382487851674 40: adding http://lwn.net/Articles/548910/
+info: spew: 1382487851698 40: adding http://david.rothlis.net/shell-set-e/
+info: spew: 1382487851714 40: adding http://david.rothlis.net/large-gnu-make/
+info: spew: 1382487851735 40: updating high-water mark for http://david.rothlis.net/articles.feed
+info: spew: 1382487856091 42: about to crawl 42/206
+info: spew: 1382487856092 42: crawling feed http://deathrayresearch.tumblr.com/rss
+info: spew: 1382487861094 43: about to crawl 43/206
+info: spew: 1382487861094 43: crawling feed http://feeds.feedburner.com/glyph
+info: spew: 1382487862830 43: received feed for http://feeds.feedburner.com/glyph
+info: spew: 1382487862845 43: feedItems
+info: spew: 1382487862845 43: 0 items
+info: spew: 1382487862845 43: Trying to parse as an atom feed
+info: spew: 1382487862845 43: 25 entries
+info: spew: 1382487862846 43: 25 urls
+info: spew: 1382487862846 43: adding 25 urls
+info: spew: 1382487862846 43: adding http://glyph.twistedmatrix.com/feeds/3772878118645119507/comments/default
+info: spew: 1382487862861 43: adding http://glyph.twistedmatrix.com/feeds/1654357426583907472/comments/default
+info: spew: 1382487862883 43: adding http://glyph.twistedmatrix.com/feeds/2368621240089315828/comments/default
+info: spew: 1382487862901 43: adding http://glyph.twistedmatrix.com/feeds/1299588979762041437/comments/default
+info: spew: 1382487862923 43: adding http://glyph.twistedmatrix.com/feeds/2344587520417413218/comments/default
+info: spew: 1382487862946 43: adding http://glyph.twistedmatrix.com/feeds/150013806878248584/comments/default
+info: spew: 1382487862965 43: adding http://glyph.twistedmatrix.com/feeds/7172059099031479788/comments/default
+info: spew: 1382487862983 43: adding http://glyph.twistedmatrix.com/feeds/1658981130046290535/comments/default
+info: spew: 1382487863000 43: adding http://www.blogger.com/feeds/8729083/posts/default/3423291996900484779?v=2
+info: spew: 1382487863024 43: adding http://glyph.twistedmatrix.com/feeds/4493860799690752323/comments/default
+info: spew: 1382487863044 43: adding http://glyph.twistedmatrix.com/feeds/4828541273833625392/comments/default
+info: spew: 1382487863069 43: adding http://glyph.twistedmatrix.com/feeds/8020811463903910585/comments/default
+info: spew: 1382487863095 43: adding http://glyph.twistedmatrix.com/feeds/891913984768859236/comments/default
+info: spew: 1382487863119 43: adding http://glyph.twistedmatrix.com/feeds/7691015725038541184/comments/default
+info: spew: 1382487863145 43: adding http://glyph.twistedmatrix.com/feeds/7383323720467782084/comments/default
+info: spew: 1382487863170 43: adding http://glyph.twistedmatrix.com/feeds/6411330827513725269/comments/default
+info: spew: 1382487863196 43: adding http://glyph.twistedmatrix.com/feeds/8212287773632886857/comments/default
+info: spew: 1382487863219 43: adding http://glyph.twistedmatrix.com/feeds/65940598180596469/comments/default
+info: spew: 1382487863237 43: adding http://glyph.twistedmatrix.com/feeds/9123080297324275352/comments/default
+info: spew: 1382487863258 43: adding http://glyph.twistedmatrix.com/feeds/7190388803250341952/comments/default
+info: spew: 1382487863277 43: adding http://glyph.twistedmatrix.com/feeds/5573830108638052774/comments/default
+info: spew: 1382487863301 43: adding http://glyph.twistedmatrix.com/feeds/1711877362725880272/comments/default
+info: spew: 1382487863321 43: adding http://glyph.twistedmatrix.com/feeds/2901853552149046084/comments/default
+info: spew: 1382487863347 43: adding http://glyph.twistedmatrix.com/feeds/8931984238054923891/comments/default
+info: spew: 1382487863372 43: adding http://glyph.twistedmatrix.com/feeds/688326045273799626/comments/default
+info: spew: 1382487863394 43: updating high-water mark for http://feeds.feedburner.com/glyph
+info: spew: 1382487866099 44: about to crawl 44/206
+info: spew: 1382487866099 44: crawling feed http://decipher.org/rss.xml
+info: spew: 1382487867633 42: received feed for http://deathrayresearch.tumblr.com/rss
+info: spew: 1382487867642 42: feedItems
+info: spew: 1382487867642 42: 20 items
+info: spew: 1382487867643 42: adding 20 urls
+info: spew: 1382487867644 42: adding http://deathrayresearch.tumblr.com/post/29049190376
+info: spew: 1382487867658 42: adding http://deathrayresearch.tumblr.com/post/28957534702
+info: spew: 1382487867678 42: adding http://deathrayresearch.tumblr.com/post/27760631409
+info: spew: 1382487867691 42: adding http://deathrayresearch.tumblr.com/post/27691807173
+info: spew: 1382487867693 42: adding http://deathrayresearch.tumblr.com/post/27257008711
+info: spew: 1382487867705 42: adding http://deathrayresearch.tumblr.com/post/27210067781
+info: spew: 1382487867720 42: adding http://deathrayresearch.tumblr.com/post/27054937940
+info: spew: 1382487867760 42: adding http://deathrayresearch.tumblr.com/post/26975107981
+info: spew: 1382487867786 42: adding http://deathrayresearch.tumblr.com/post/26565678611
+info: spew: 1382487867792 42: adding http://deathrayresearch.tumblr.com/post/26418932457
+info: spew: 1382487867797 42: adding http://deathrayresearch.tumblr.com/post/26359964520
+info: spew: 1382487867826 42: adding http://deathrayresearch.tumblr.com/post/5736417135
+info: spew: 1382487867844 42: adding http://deathrayresearch.tumblr.com/post/4503505772
+info: spew: 1382487867855 42: adding http://deathrayresearch.tumblr.com/post/4367093927
+info: spew: 1382487867869 42: adding http://deathrayresearch.tumblr.com/post/4340271504
+info: spew: 1382487867883 42: adding http://deathrayresearch.tumblr.com/post/4257262150
+info: spew: 1382487867908 42: adding http://deathrayresearch.tumblr.com/post/4221651480
+info: spew: 1382487867929 42: adding http://deathrayresearch.tumblr.com/post/4183058307
+info: spew: 1382487867952 42: adding http://deathrayresearch.tumblr.com/post/4170305887
+info: spew: 1382487867991 42: adding http://deathrayresearch.tumblr.com/post/4115205277
+info: spew: 1382487868015 42: updating high-water mark for http://deathrayresearch.tumblr.com/rss
+info: spew: 1382487870201 44: received feed for http://decipher.org/rss.xml
+info: spew: 1382487870202 44: feedItems
+info: spew: 1382487870202 44: 15 items
+info: spew: 1382487870202 44: adding 15 urls
+info: spew: 1382487870202 44: adding http://www.decipher.org/2012/08/when-we-refer-to-the.html
+info: spew: 1382487870214 44: adding http://www.decipher.org/2012/07/took-a-hike.html
+info: spew: 1382487870226 44: adding http://www.decipher.org/2012/05/doing-well-and-doing-good.html
+info: spew: 1382487870238 44: adding http://www.decipher.org/2011/02/blind-spots.html
+info: spew: 1382487870250 44: adding http://www.decipher.org/2011/02/designing-failure.html
+info: spew: 1382487870262 44: adding http://www.decipher.org/2008/11/responsibility.html
+info: spew: 1382487870277 44: adding http://www.decipher.org/2008/08/insideout.html
+info: spew: 1382487870290 44: adding http://www.decipher.org/2008/08/aurora-browser.html
+info: spew: 1382487870305 44: adding http://www.decipher.org/2008/05/naturalistic-de.html
+info: spew: 1382487870323 44: adding http://www.decipher.org/2008/01/social-software.html
+info: spew: 1382487870344 44: adding http://www.decipher.org/2007/11/the-web-that-wa.html
+info: spew: 1382487870369 44: adding http://www.decipher.org/2007/11/data-wants-to-b.html
+info: spew: 1382487870395 44: adding http://www.decipher.org/2007/11/antenna-is-now.html
+info: spew: 1382487870419 44: adding http://www.decipher.org/2007/11/smartphones-vs.html
+info: spew: 1382487870440 44: adding http://www.decipher.org/2007/10/snigglenet-the.html
+info: spew: 1382487870451 44: updating high-water mark for http://decipher.org/rss.xml
+info: spew: 1382487871106 45: about to crawl 45/206
+info: spew: 1382487871106 45: crawling feed http://denis.papathanasiou.org/?feed=rss2
+info: spew: 1382487876110 46: about to crawl 46/206
+info: spew: 1382487876110 46: crawling feed http://feeds.feedburner.com/thurn
+info: spew: 1382487876381 45: received feed for http://denis.papathanasiou.org/?feed=rss2
+info: spew: 1382487876386 45: feedItems
+info: spew: 1382487876387 45: 10 items
+info: spew: 1382487876387 45: adding 10 urls
+info: spew: 1382487876388 45: adding http://denis.papathanasiou.org/2013/10/02/1255/
+info: spew: 1382487876404 45: adding http://denis.papathanasiou.org/2013/09/22/found-my-long-lost-simpsonizeme-photo/
+info: spew: 1382487876428 45: adding http://denis.papathanasiou.org/2013/05/16/the-flip-book-from-sadaharu-oh-a-zen-way-of-baseball/
+info: spew: 1382487876454 45: adding http://denis.papathanasiou.org/2013/04/27/building-a-custom-case-for-a-handmade-tv-b-gone/
+info: spew: 1382487876476 45: adding http://denis.papathanasiou.org/2013/03/31/ubuntu-server-fluxbox-on-mac-osx-using-virtualbox/
+info: spew: 1382487876501 45: adding http://denis.papathanasiou.org/2013/03/25/using-webcams-in-ubuntu-fixing-the-audio/
+info: spew: 1382487876528 45: adding http://denis.papathanasiou.org/2013/02/10/state-machines-in-go-golang/
+info: spew: 1382487876555 45: adding http://denis.papathanasiou.org/2012/12/18/simple-social-media-share-buttons/
+info: spew: 1382487876579 45: adding http://denis.papathanasiou.org/2012/12/02/a-practical-guide-to-selling-ebooks-online/
+info: spew: 1382487876603 45: adding http://denis.papathanasiou.org/2012/11/06/after-hurricane-sandy/
+info: spew: 1382487876625 45: updating high-water mark for http://denis.papathanasiou.org/?feed=rss2
+info: spew: 1382487877254 46: received feed for http://feeds.feedburner.com/thurn
+info: spew: 1382487877257 46: feedItems
+info: spew: 1382487877257 46: 0 items
+info: spew: 1382487877258 46: Trying to parse as an atom feed
+info: spew: 1382487877258 46: 0 entries
+info: spew: 1382487877258 46: 0 urls
+info: spew: 1382487877258 46: adding 0 urls
+info: spew: 1382487877258 46: updating high-water mark for http://feeds.feedburner.com/thurn
+info: spew: 1382487881115 47: about to crawl 47/206
+info: spew: 1382487881116 47: crawling feed http://devaraj123.blogspot.com/feeds/posts/default
+info: spew: 1382487886118 48: about to crawl 48/206
+info: spew: 1382487886118 48: crawling feed http://developersw.blogspot.com/feeds/posts/default
+info: spew: 1382487886176 47: received feed for http://devaraj123.blogspot.com/feeds/posts/default
+info: spew: 1382487886181 47: feedItems
+info: spew: 1382487886182 47: 0 items
+info: spew: 1382487886182 47: Trying to parse as an atom feed
+info: spew: 1382487886182 47: 25 entries
+info: spew: 1382487886182 47: 25 urls
+info: spew: 1382487886182 47: adding 25 urls
+info: spew: 1382487886182 47: adding http://devaraj123.blogspot.com/feeds/2328706541644030506/comments/default
+info: spew: 1382487886195 47: adding http://devaraj123.blogspot.com/feeds/7520329837156325539/comments/default
+info: spew: 1382487886210 47: adding http://devaraj123.blogspot.com/feeds/4034665518946876235/comments/default
+info: spew: 1382487886227 47: adding http://devaraj123.blogspot.com/feeds/7377459507764870954/comments/default
+info: spew: 1382487886246 47: adding http://devaraj123.blogspot.com/feeds/6716984226693582333/comments/default
+info: spew: 1382487886266 47: adding http://devaraj123.blogspot.com/feeds/8036421190738841906/comments/default
+info: spew: 1382487886289 47: adding http://devaraj123.blogspot.com/feeds/6655430095007214333/comments/default
+info: spew: 1382487886311 47: adding http://devaraj123.blogspot.com/feeds/4397492516857616546/comments/default
+info: spew: 1382487886329 47: adding http://devaraj123.blogspot.com/feeds/7239825648528237885/comments/default
+info: spew: 1382487886350 47: adding http://devaraj123.blogspot.com/feeds/9090925449584042610/comments/default
+info: spew: 1382487886375 47: adding http://devaraj123.blogspot.com/feeds/305478720823090129/comments/default
+info: spew: 1382487886400 47: adding http://devaraj123.blogspot.com/feeds/5378332962517829222/comments/default
+info: spew: 1382487886420 47: adding http://devaraj123.blogspot.com/feeds/7704594189717196196/comments/default
+info: spew: 1382487886446 47: adding http://devaraj123.blogspot.com/feeds/9057107635095658776/comments/default
+info: spew: 1382487886472 47: adding http://devaraj123.blogspot.com/feeds/5597507515515466590/comments/default
+info: spew: 1382487886500 47: adding http://devaraj123.blogspot.com/feeds/7898107421321735757/comments/default
+info: spew: 1382487886524 47: adding http://devaraj123.blogspot.com/feeds/2035454652126091223/comments/default
+info: spew: 1382487886547 47: adding http://devaraj123.blogspot.com/feeds/4231314338704843709/comments/default
+info: spew: 1382487886565 47: adding http://devaraj123.blogspot.com/feeds/7179214695797453285/comments/default
+info: spew: 1382487886584 47: adding http://devaraj123.blogspot.com/feeds/1732377982849894521/comments/default
+info: spew: 1382487886607 47: adding http://devaraj123.blogspot.com/feeds/4188101658014809032/comments/default
+info: spew: 1382487886630 47: adding http://devaraj123.blogspot.com/feeds/4060829746373227267/comments/default
+info: spew: 1382487886654 47: adding http://devaraj123.blogspot.com/feeds/3737025977082983133/comments/default
+info: spew: 1382487886684 47: adding http://devaraj123.blogspot.com/feeds/2587524551405538057/comments/default
+info: spew: 1382487886703 47: adding http://devaraj123.blogspot.com/feeds/3490686039961617295/comments/default
+info: spew: 1382487886726 47: updating high-water mark for http://devaraj123.blogspot.com/feeds/posts/default
+info: spew: 1382487886729 48: received feed for http://developersw.blogspot.com/feeds/posts/default
+info: spew: 1382487886732 48: feedItems
+info: spew: 1382487886732 48: 0 items
+info: spew: 1382487886732 48: Trying to parse as an atom feed
+info: spew: 1382487886732 48: 12 entries
+info: spew: 1382487886732 48: 12 urls
+info: spew: 1382487886732 48: adding 12 urls
+info: spew: 1382487886732 48: adding http://developersw.blogspot.com/feeds/4711513302984505172/comments/default
+info: spew: 1382487886749 48: adding http://developersw.blogspot.com/feeds/2059485651244289394/comments/default
+info: spew: 1382487886770 48: adding http://developersw.blogspot.com/feeds/4654558619362715745/comments/default
+info: spew: 1382487886793 48: adding http://developersw.blogspot.com/feeds/1455435395996287776/comments/default
+info: spew: 1382487886820 48: adding http://developersw.blogspot.com/feeds/6920976755766037406/comments/default
+info: spew: 1382487886845 48: adding http://developersw.blogspot.com/feeds/7946210923933497469/comments/default
+info: spew: 1382487886864 48: adding http://developersw.blogspot.com/feeds/5699711868359682295/comments/default
+info: spew: 1382487886890 48: adding http://developersw.blogspot.com/feeds/114947591131544236/comments/default
+info: spew: 1382487886920 48: adding http://developersw.blogspot.com/feeds/114577413169905341/comments/default
+info: spew: 1382487886943 48: adding http://developersw.blogspot.com/feeds/110680257000892679/comments/default
+info: spew: 1382487886957 48: adding http://developersw.blogspot.com/feeds/110520633780446105/comments/default
+info: spew: 1382487886970 48: adding http://developersw.blogspot.com/feeds/110387235441915767/comments/default
+info: spew: 1382487886982 48: updating high-water mark for http://developersw.blogspot.com/feeds/posts/default
+info: spew: 1382487891122 49: about to crawl 49/206
+info: spew: 1382487891123 49: crawling feed http://physics.ucsd.edu/do-the-math/feed/
+info: spew: 1382487893417 49: received feed for http://physics.ucsd.edu/do-the-math/feed/
+info: spew: 1382487893421 49: feedItems
+info: spew: 1382487893421 49: 10 items
+info: spew: 1382487893422 49: adding 10 urls
+info: spew: 1382487893422 49: adding http://physics.ucsd.edu/do-the-math/2013/09/the-already-written-future/
+info: spew: 1382487893443 49: adding http://physics.ucsd.edu/do-the-math/2013/09/the-real-population-problem/
+info: spew: 1382487893464 49: adding http://physics.ucsd.edu/do-the-math/2013/08/man-bites-ev-will-ev-bite-back/
+info: spew: 1382487893492 49: adding http://physics.ucsd.edu/do-the-math/2013/05/elusive-entropy/
+info: spew: 1382487893518 49: adding http://physics.ucsd.edu/do-the-math/2013/03/lets-blow-this-joint/
+info: spew: 1382487893543 49: adding http://physics.ucsd.edu/do-the-math/2012/12/death-of-a-battery/
+info: spew: 1382487893564 49: adding http://physics.ucsd.edu/do-the-math/2012/11/this-thermal-house/
+info: spew: 1382487893576 49: adding http://physics.ucsd.edu/do-the-math/2012/11/crippling-intellects/
+info: spew: 1382487893587 49: adding http://physics.ucsd.edu/do-the-math/2012/11/survey-the-people/
+info: spew: 1382487893599 49: adding http://physics.ucsd.edu/do-the-math/2012/10/futuristic-physicists/
+info: spew: 1382487893609 49: updating high-water mark for http://physics.ucsd.edu/do-the-math/feed/
+info: spew: 1382487896128 50: about to crawl 50/206
+info: spew: 1382487896128 50: crawling feed http://blogs.swarthmore.edu/burke/feed/
+info: spew: 1382487901133 51: about to crawl 51/206
+info: spew: 1382487901134 51: crawling feed http://feeds.feedburner.com/EggsOnBread
+info: spew: 1382487902470 51: received feed for http://feeds.feedburner.com/EggsOnBread
+info: spew: 1382487902475 51: feedItems
+info: spew: 1382487902476 51: 10 items
+info: spew: 1382487902476 51: adding 10 urls
+info: spew: 1382487902476 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/o4WDUxtI9gk/
+info: spew: 1382487902502 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/HRXiosY4imc/
+info: spew: 1382487902529 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/Ts5JpBkZSHU/
+info: spew: 1382487902558 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/_rDmCms7Xt0/
+info: spew: 1382487902595 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/WUEjNWkNB68/
+info: spew: 1382487902607 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/5MyDDyhTGZE/
+info: spew: 1382487902622 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/51jzTwhOZak/
+info: spew: 1382487902636 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/FT_nzj-_lHA/
+info: spew: 1382487902637 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/_MgWI_--ULw/
+info: spew: 1382487902638 51: adding http://feedproxy.google.com/~r/EggsOnBread/~3/ob7NkayVpSY/
+info: spew: 1382487902653 51: updating high-water mark for http://feeds.feedburner.com/EggsOnBread
+info: spew: 1382487905785 50: received feed for http://blogs.swarthmore.edu/burke/feed/
+info: spew: 1382487905789 50: feedItems
+info: spew: 1382487905789 50: 10 items
+info: spew: 1382487905789 50: adding 10 urls
+info: spew: 1382487905789 50: adding http://blogs.swarthmore.edu/burke/blog/2013/10/03/smarter-than-you-the-ideology-of-the-incentive-parking-lot-edition/
+info: spew: 1382487905804 50: adding http://blogs.swarthmore.edu/burke/blog/2013/10/03/the-cheese-stands-alone/
+info: spew: 1382487905817 50: adding http://blogs.swarthmore.edu/burke/blog/2013/10/01/amendments/
+info: spew: 1382487905828 50: adding http://blogs.swarthmore.edu/burke/blog/2013/09/30/lashed-to-the-rack-or-the-ideology-of-incremental-improvement/
+info: spew: 1382487905841 50: adding http://blogs.swarthmore.edu/burke/blog/2013/09/23/war-and-understanding/
+info: spew: 1382487905854 50: adding http://blogs.swarthmore.edu/burke/blog/2013/09/06/the-strains-of-decision/
+info: spew: 1382487905866 50: adding http://blogs.swarthmore.edu/burke/blog/2013/09/03/mind-it-is-blown/
+info: spew: 1382487905878 50: adding http://blogs.swarthmore.edu/burke/blog/2013/09/03/procrustes-market/
+info: spew: 1382487905890 50: adding http://blogs.swarthmore.edu/burke/blog/2013/08/30/suez-has-already-happened/
+info: spew: 1382487905903 50: adding http://blogs.swarthmore.edu/burke/blog/2013/08/23/the-method/
+info: spew: 1382487905916 50: updating high-water mark for http://blogs.swarthmore.edu/burke/feed/
+info: spew: 1382487906136 52: about to crawl 52/206
+info: spew: 1382487906136 52: crawling feed http://blogs.reuters.com/emanuelderman/feed/
+info: spew: 1382487908321 52: received feed for http://blogs.reuters.com/emanuelderman/feed/
+info: spew: 1382487908328 52: feedItems
+info: spew: 1382487908328 52: 10 items
+info: spew: 1382487908329 52: adding 10 urls
+info: spew: 1382487908329 52: adding http://blogs.reuters.com/emanuelderman/2012/09/25/more-from-prost-a-fictional-work-in-progress/
+info: spew: 1382487908336 52: adding http://blogs.reuters.com/emanuelderman/2012/09/14/an-eagerness-to-impart-unnecessary-information/
+info: spew: 1382487908358 52: adding http://blogs.reuters.com/emanuelderman/2012/09/11/a-parable-on-quantitative-easing/
+info: spew: 1382487908400 52: adding http://blogs.reuters.com/emanuelderman/2012/09/03/german-models/
+info: spew: 1382487908425 52: adding http://blogs.reuters.com/emanuelderman/2012/08/08/the-complexities-of-advertising/
+info: spew: 1382487908451 52: adding http://blogs.reuters.com/emanuelderman/2012/08/05/dogs-lives/
+info: spew: 1382487908469 52: adding http://blogs.reuters.com/emanuelderman/2012/07/25/tail-risk-the-police-and-grad-school/
+info: spew: 1382487908490 52: adding http://blogs.reuters.com/emanuelderman/2012/07/13/an-excerpt-from-prost-a-work-in-progress/
+info: spew: 1382487908509 52: adding http://blogs.reuters.com/emanuelderman/2012/07/03/the-powerful-league-of-missing-persons/
+info: spew: 1382487908529 52: adding http://blogs.reuters.com/emanuelderman/2012/06/04/gulp/
+info: spew: 1382487908541 52: updating high-water mark for http://blogs.reuters.com/emanuelderman/feed/
+info: spew: 1382487911141 53: about to crawl 53/206
+info: spew: 1382487911141 53: crawling feed http://feeds.feedburner.com/emilisgithubcom
+info: spew: 1382487912156 53: received feed for http://feeds.feedburner.com/emilisgithubcom
+info: spew: 1382487912160 53: feedItems
+info: spew: 1382487912160 53: 0 items
+info: spew: 1382487912160 53: Trying to parse as an atom feed
+info: spew: 1382487912161 53: 8 entries
+info: spew: 1382487912161 53: 8 urls
+info: spew: 1382487912161 53: adding 8 urls
+info: spew: 1382487912162 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/H44hWqTBCL4/firefox-os-at-vilniusjs.html
+info: spew: 1382487912175 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/OZB8VhBqT78/mozilla-stop-watching-me.html
+info: spew: 1382487912191 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/alBfwy0XJPQ/left-right-left-vim-shell-vim.html
+info: spew: 1382487912215 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/yoEisXdszyg/solr-lt.html
+info: spew: 1382487912231 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/2VWPRL_qsCU/customized-bash-prompt.html
+info: spew: 1382487912260 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/nwwN3oylLiE/notes-from-discussions-about-humble.html
+info: spew: 1382487912282 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/EWYDuaLiqlQ/usefullnes-of-inventing-languages.html
+info: spew: 1382487912297 53: adding http://feedproxy.google.com/~r/emilisgithubcom/~3/6gzHwuXzEPI/javascript-is-an-amazing-language.html
+info: spew: 1382487912314 53: updating high-water mark for http://feeds.feedburner.com/emilisgithubcom
+info: spew: 1382487916146 54: about to crawl 54/206
+info: spew: 1382487916147 54: crawling feed http://enso-lang.org/blog/feed/
+info: spew: 1382487917234 54: received feed for http://enso-lang.org/blog/feed/
+info: spew: 1382487917239 54: feedItems
+info: spew: 1382487917239 54: 10 items
+info: spew: 1382487917240 54: adding 10 urls
+info: spew: 1382487917240 54: adding http://enso-lang.org/blog/2012/08/08/enso-on-modeling-languages-blog/
+info: spew: 1382487917254 54: adding http://enso-lang.org/blog/2012/07/18/presentations-on-enso/
+info: spew: 1382487917277 54: adding http://enso-lang.org/blog/2012/06/12/object-grammars/
+info: spew: 1382487917294 54: adding http://enso-lang.org/blog/2012/04/18/managed-data-modular-strategies-for-data-abstraction-enso-papers-1-of-6/
+info: spew: 1382487917315 54: adding http://enso-lang.org/blog/2012/03/10/enso-presentatons/
+info: spew: 1382487917331 54: adding http://enso-lang.org/blog/2012/02/08/why-i-dont-consider-programs-to-be-models/
+info: spew: 1382487917347 54: adding http://enso-lang.org/blog/2011/11/30/viewpoints-research-trip/
+info: spew: 1382487917364 54: adding http://enso-lang.org/blog/2011/11/19/channel-9-video/
+info: spew: 1382487917385 54: adding http://enso-lang.org/blog/2011/11/09/domain-specific-languages/
+info: spew: 1382487917404 54: adding http://enso-lang.org/blog/2011/11/08/executable-specification-languages/
+info: spew: 1382487917420 54: updating high-water mark for http://enso-lang.org/blog/feed/
+info: spew: 1382487921152 55: about to crawl 55/206
+info: spew: 1382487921152 55: crawling feed http://herdrick.tumblr.com/rss
+info: spew: 1382487923942 55: received feed for http://herdrick.tumblr.com/rss
+info: spew: 1382487923943 55: feedItems
+info: spew: 1382487923943 55: 16 items
+info: spew: 1382487923943 55: adding 16 urls
+info: spew: 1382487923944 55: adding http://herdrick.tumblr.com/post/57820268140
+info: spew: 1382487923962 55: adding http://herdrick.tumblr.com/post/48639208685
+info: spew: 1382487923989 55: adding http://herdrick.tumblr.com/post/45777318525
+info: spew: 1382487924011 55: adding http://herdrick.tumblr.com/post/45193590173
+info: spew: 1382487924027 55: adding http://herdrick.tumblr.com/post/45297680351
+info: spew: 1382487924045 55: adding http://herdrick.tumblr.com/post/46095141015
+info: spew: 1382487924064 55: adding http://herdrick.tumblr.com/post/24563553660
+info: spew: 1382487924085 55: adding http://herdrick.tumblr.com/post/24563032599
+info: spew: 1382487924110 55: adding http://herdrick.tumblr.com/post/16359785894
+info: spew: 1382487924137 55: adding http://herdrick.tumblr.com/post/825096887
+info: spew: 1382487924164 55: adding http://herdrick.tumblr.com/post/672301520
+info: spew: 1382487924188 55: adding http://herdrick.tumblr.com/post/46094986874
+info: spew: 1382487924215 55: adding http://herdrick.tumblr.com/post/329351672
+info: spew: 1382487924237 55: adding http://herdrick.tumblr.com/post/46094730087
+info: spew: 1382487924258 55: adding http://herdrick.tumblr.com/post/46094575981
+info: spew: 1382487924286 55: adding http://herdrick.tumblr.com/post/46094828015
+info: spew: 1382487924309 55: updating high-water mark for http://herdrick.tumblr.com/rss
+info: spew: 1382487926157 56: about to crawl 56/206
+info: spew: 1382487926157 56: crawling feed http://www.evanmiller.org/news.xml
+info: spew: 1382487927155 56: received feed for http://www.evanmiller.org/news.xml
+info: spew: 1382487927158 56: feedItems
+info: spew: 1382487927158 56: 18 items
+info: spew: 1382487927159 56: adding 0 urls
+info: spew: 1382487927159 56: updating high-water mark for http://www.evanmiller.org/news.xml
+info: spew: 1382487931163 57: about to crawl 57/206
+info: spew: 1382487931163 57: crawling feed http://evanrmurphy.com/feed/
+^CTraceback (most recent call last):
+  File "/home/agaram/Desktop/rss/spew/addon-sdk/bin/cfx", line 33, in <module>
+    cuddlefish.run()
+  File "/home/agaram/Desktop/rss/spew/addon-sdk/python-lib/cuddlefish/__init__.py", line 945, in run
+    pkgdir=options.pkgdir)
+  File "/home/agaram/Desktop/rss/spew/addon-sdk/python-lib/cuddlefish/runner.py", line 719, in run_app
+    time.sleep(0.05)
+KeyboardInterrupt
