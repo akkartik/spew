@@ -11,8 +11,8 @@ in tabs.
 #### Installation
 
 You'll need the [addon SDK](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/installation.html).
-Don't worry, it's super easy. Email me if you run into trouble or would like a
-binary to install: [spew@akkartik.com](mailto:spew@akkartik.com)
+Don't worry, it's super easy to install. Email me if you run into trouble or
+would like a binary to install: [spew@akkartik.com](mailto:spew@akkartik.com)
 
     $ git clone http://github.com/akkartik/spew
     $ cd spew
