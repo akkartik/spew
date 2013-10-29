@@ -1,9 +1,10 @@
 {
   "name": "spew",
-  "fullName": "Spew: the minimalist feedreader",
+  "fullName": "Spew: the UI-less feedreader",
   "id": "jid1-lEQflr7kJflWeg",
-  "description": "Just background crawling, and a shortcut to open a few random new stories in tabs",
+  "description": "Crawls your feeds into bookmarks and provides a hotkey to open a few in tabs. That's it!",
   "author": "Kartik Agaram",
+  "homepage": "http://github.com/akkartik/spew",
   "license": "MPL 2.0",
   "preferences": [
   {
@@ -16,7 +17,7 @@
   {
     "name": "TABS_AT_A_TIME",
     "title": "Stories to read at a time",
-    "description": "Number of stories to open in tabs everytime you hit your hotkey.",
+    "description": "Number of stories/tabs to open everytime you hit your hotkey.",
     "type": "integer",
     "value": 4
   }
