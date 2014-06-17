@@ -8,6 +8,8 @@ in the addon toolbar. Wanna read some stories? Look in the 'Feed items'
 bookmark folder, or just hit ctrl-shift-o (configurable) to open a few stories
 in tabs.
 
+[Screenshots](http://imgur.com/a/kT3NN)
+
 #### Installation
 
 You'll need the [addon SDK](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/installation.html).
