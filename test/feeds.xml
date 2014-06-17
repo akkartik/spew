@@ -5,7 +5,6 @@
   </head>
   <body>
     <outline text="Abtin Forouzandeh" title="Abtin Forouzandeh" type="rss" xmlUrl="http://feeds.feedburner.com/AbtinForouzandeh"/>
-    <outline text="Vivek Haldar" title="Vivek Haldar" type="rss" xmlUrl="http://blog.vivekhaldar.com/rss"/>
     <outline text="Adrian Perez" title="Adrian Perez" type="rss" xmlUrl="http://primevector.wordpress.com/feed/"/>
     <outline text="Alarming Development" title="Alarming Development" type="rss" xmlUrl="http://alarmingdevelopment.org/?feed=rss2"/>
     <outline text="Amir Khella" title="Amir Khella" type="rss" xmlUrl="http://feeds.feedburner.com/AmirKhella"/>
@@ -47,7 +46,6 @@
     <outline text="Deciphering Glyph" title="Deciphering Glyph" type="rss" xmlUrl="http://feeds.feedburner.com/glyph"/>
     <outline text="decipher" title="decipher" type="rss" xmlUrl="http://decipher.org/rss.xml"/>
     <outline text="Denis Papathanasiou" title="Denis Papathanasiou" type="rss" xmlUrl="http://denis.papathanasiou.org/?feed=rss2"/>
-    <outline text="Devaraj123" title="Devaraj123" type="rss" xmlUrl="http://devaraj123.blogspot.com/feeds/posts/default"/>
     <outline text="Developer Skunk Works" title="Developer Skunk Works" type="rss" xmlUrl="http://developersw.blogspot.com/feeds/posts/default"/>
     <outline text="Do the Math" title="Do the Math" type="rss" xmlUrl="http://physics.ucsd.edu/do-the-math/feed/"/>
     <outline text="EggsOnBread" title="EggsOnBread" type="rss" xmlUrl="http://feeds.feedburner.com/EggsOnBread"/>
@@ -79,8 +77,6 @@
     <outline text="Josh Haberman" title="Josh Haberman" type="rss" xmlUrl="http://blog.reverberate.org/feeds/posts/default"/>
     <outline text="journal.stuffwithstuff.com" title="journal.stuffwithstuff.com" type="rss" xmlUrl="http://journal.stuffwithstuff.com/atom.xml"/>
     <outline text="J" title="J" type="rss" xmlUrl="http://jbgst.tumblr.com/rss"/>
-    <outline text="Kalyan" title="Kalyan" type="rss" xmlUrl="http://thedevilwentdowntopune.blogspot.com/feeds/posts/default"/>
-    <outline text="Karu" title="Karu" type="rss" xmlUrl="http://karublog.wordpress.com/feed/"/>
     <outline text="Kavita: Everything On Bollywood" title="Kavita: Everything On Bollywood" type="rss" xmlUrl="http://bollywoodish.blogspot.com/feeds/posts/default"/>
     <outline text="Kazimir Majorinc's Lisp Notes." title="Kazimir Majorinc's Lisp Notes." type="rss" xmlUrl="http://kazimirmajorinc.blogspot.com/feeds/posts/default"/>
     <outline text="Kevin Kelly" title="Kevin Kelly" type="rss" xmlUrl="http://feeds.feedburner.com/thetechnium"/>
@@ -113,7 +109,6 @@
     <outline text="null is null or not an object" title="null is null or not an object" type="rss" xmlUrl="http://feeds.feedburner.com/nullisnull"/>
     <outline text="Omniorthogonal" title="Omniorthogonal" type="rss" xmlUrl="http://omniorthogonal.blogspot.com/feeds/posts/default"/>
     <outline text="One Div Zero" title="One Div Zero" type="rss" xmlUrl="http://james-iry.blogspot.com/feeds/posts/default"/>
-    <outline text="onetj" title="onetj" type="rss" xmlUrl="http://feeds.feedburner.com/TjsKaleidoscope"/>
     <outline text="ongoing by Tim Bray" title="ongoing by Tim Bray" type="rss" xmlUrl="http://www.tbray.org/ongoing/ongoing.atom"/>
     <outline text="on oyster" title="on oyster" type="rss" xmlUrl="http://oyster.diiq.org/rss"/>
     <outline text="OnTheSpiral" title="OnTheSpiral" type="rss" xmlUrl="http://feeds.feedburner.com/spiralout"/>
@@ -134,7 +129,6 @@
     <outline text="Ravi Mohan" title="Ravi Mohan" type="rss" xmlUrl="http://pindancing.blogspot.com/feeds/posts/default"/>
     <outline text="Real World Academia" title="Real World Academia" type="rss" xmlUrl="http://evanfarrer.blogspot.com/feeds/posts/default"/>
     <outline text="Recursivity Blog" title="Recursivity Blog" type="rss" xmlUrl="http://feeds.feedburner.com/RecursivityBlog"/>
-    <outline text="reddit: akkartik/hackerstream/readwarp/hystry" title="reddit: akkartik/hackerstream/readwarp/hystry" type="rss" xmlUrl="http://www.reddit.com/search.rss?q=readwarp+OR+akkartik+OR+hackerstream+OR+hystry"/>
     <outline text="ribbonfarm" title="ribbonfarm" type="rss" xmlUrl="http://feeds.ribbonfarm.com/Ribbonfarm"/>
     <outline text="Richard Rodger" title="Richard Rodger" type="rss" xmlUrl="http://www.richardrodger.com/feed/"/>
     <outline text="Ron Burk" title="Ron Burk" type="rss" xmlUrl="http://ronburk.blogspot.com/feeds/posts/default"/>
@@ -150,7 +144,6 @@
     <outline text="Steve's blog" title="Steve's blog" type="rss" xmlUrl="http://googler13.blogspot.com/feeds/posts/default"/>
     <outline text="Steve Yegge" title="Steve Yegge" type="rss" xmlUrl="http://steve-yegge.blogspot.de/atom.xml"/>
     <outline text="Structural insight" title="Structural insight" type="rss" xmlUrl="http://fexpr.blogspot.com/feeds/posts/default"/>
-    <outline text="Sunruk" title="Sunruk" type="rss" xmlUrl="http://sunruk.tumblr.com/rss"/>
     <outline text="Tagide" title="Tagide" type="rss" xmlUrl="http://tagide.com/blog/feed/"/>
     <outline text="Tambrahm Rage" title="Tambrahm Rage" type="rss" xmlUrl="http://tambrahmrage.tumblr.com/rss"/>
     <outline text="TechBookReport" title="TechBookReport" type="rss" xmlUrl="http://www.techbookreport.com/rss/jbrss.xml"/>
@@ -175,6 +168,7 @@
     <outline text="Valve &#xBB; Valve Economics" title="Valve &#xBB; Valve Economics" type="rss" xmlUrl="http://blogs.valvesoftware.com/feed/?cat=6"/>
     <outline text="Venture Hacks" title="Venture Hacks" type="rss" xmlUrl="http://feeds.venturehacks.com/venturehacks"/>
     <outline text="VG Cats" title="VG Cats" type="rss" xmlUrl="http://www.vgcats.com/vgcats.rdf.xml"/>
+    <outline text="Vivek Haldar" title="Vivek Haldar" type="rss" xmlUrl="http://blog.vivekhaldar.com/rss"/>
     <outline text="Warpspire" title="Warpspire" type="rss" xmlUrl="http://feeds.feedburner.com/warpspire"/>
     <outline text="WayneChang.com" title="WayneChang.com" type="rss" xmlUrl="http://waynechang.com/feed/atom/"/>
     <outline text="Wild Intent" title="Wild Intent" type="rss" xmlUrl="http://wildintent.com/feed/"/>
